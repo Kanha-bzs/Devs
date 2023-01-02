@@ -71,5 +71,23 @@
 "Dev_Name" : "Ramakanta",
 "Icon_URL" : "",
 "About" : "Thanks sir for Making Ads Regex Tool v3.0 .Modder Hub uses all of the regex codes.From here ☺️"
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "Modder Hub Jiagu Protection",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Delta Mods",
+"Icon_URL" : "",
+"About" : "Helped Modder Hub by protecting the package by Jiagu Protection..A friendly and amiable friend..❤️️"
 }
 ]
