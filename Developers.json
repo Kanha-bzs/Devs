@@ -113,10 +113,20 @@
 "Opensource" : "false",
 "Opensource_Link" : "",
 "Header_Name" : "",
+"Dev_Name" : "Timscriptov",
+"Icon_URL" : "",
+"About" : "Thank you so much sir for spending some time on me to teaching me about Dexlib2 usage.. Thank you so much Sir 🙏♥️"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
 "Dev_Name" : "Jag Kubarev",
 "Icon_URL" : "",
 "About" : "Thank you so much for sharing this tool on Your Tg Channel.."
 },
+
 {
 "Header_Enable" : "false",
 "Opensource" : "false",
@@ -125,6 +135,51 @@
 "Dev_Name" : "@Hak_init",
 "Icon_URL" : "",
 "About" : "Thank you so much for sharing this tool on Your Tg Channel.."
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "GitHub Open source projects️",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/TimScriptov/ApkSignatureKill",
+"Header_Name" : "",
+"Dev_Name" : "Apk Signature Killer",
+"Icon_URL" : "",
+"About" : "Tool that can kill Signature Verification of App"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/Modify24x7/ApkStringDecryptor",
+"Header_Name" : "",
+"Dev_Name" : "Dex Decrypter",
+"Icon_URL" : "",
+"About" : "An example that can help you to decrypt an Encrypted classes.dex file"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/Maximoff/Elf-Editor-new",
+"Header_Name" : "",
+"Dev_Name" : "Lib(.so) Editor",
+"Icon_URL" : "",
+"About" : "Tool that can help you to edit lib(.so) Or Elf strings with new method"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/Angads25/android-filepicker",
+"Header_Name" : "",
+"Dev_Name" : "File Picker",
+"Icon_URL" : "",
+"About" : "Picking file Both multi choice and single choice without the help of System Filemanager"
 }
 
 ]
