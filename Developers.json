@@ -33,7 +33,7 @@
 "Header_Name" : "",
 "Dev_Name" : "Sketchware Pro",
 "Icon_URL" : "https://raw.githubusercontent.com/Sketchware-Pro/Sketchware-Pro/main/assets/Sketchware-Pro.png",
-"About" : "Thank you so much for Building Sketchware Pro for keep alive Sketchware (Orginal For Ever). Thanks to all Team Members for making me more comfortable in building Modder Hub.."
+"About" : "Thank you so much for Building Sketchware Pro for keep alive Sketchware (Orginal) for ever. Thanks to all Team Members for making me more comfortable in building Modder Hub.."
 },
 {
 "Header_Enable" : "true",
@@ -51,14 +51,14 @@
 "Opensource_Link" : "",
 "Header_Name" : "",
 "Dev_Name" : "Akd Studio",
-"Icon_URL" : "",
+"Icon_URL" : "https://download.ru/previews/11bcdd6f4ac7794b901e5e1e0c83341df91d70bc/pgg8W2Y8/logo.large.png?e=1672935874&s=qG5og7X_Z5pbuQAah7stNA",
 "About" : "Contribute Modder Hub sharing Apk Editor Patches.. And also helped in sharing app with other's.Thanks"
 },
 {
 "Header_Enable" : "true",
 "Opensource" : "false",
 "Opensource_Link" : "",
-"Header_Name" : "MT Regex Helper",
+"Header_Name" : "MT Regex",
 "Dev_Name" : "",
 "Icon_URL" : "",
 "About" : ""
@@ -70,7 +70,7 @@
 "Header_Name" : "",
 "Dev_Name" : "Ramakanta",
 "Icon_URL" : "",
-"About" : "Thanks sir for Making Ads Regex Tool v3.0 .Modder Hub uses all of the regex codes.From here ☺️"
+"About" : "Thanks sir for Making Ads Regex Tool v3.0 .Modder Hub uses all of the regex codes from here ☺️"
 },
 {
 "Header_Enable" : "true",
@@ -114,7 +114,7 @@
 "Opensource_Link" : "",
 "Header_Name" : "",
 "Dev_Name" : "Timscriptov",
-"Icon_URL" : "",
+"Icon_URL" : "https://avatars.githubusercontent.com/u/31324315?v=4",
 "About" : "Thank you so much sir for spending some time on me to teaching me about Dexlib2 usage.. Thank you so much Sir 🙏♥️"
 },
 {
