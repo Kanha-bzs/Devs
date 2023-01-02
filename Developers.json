@@ -180,6 +180,77 @@
 "Dev_Name" : "File Picker",
 "Icon_URL" : "",
 "About" : "Picking file Both multi choice and single choice without the help of System Filemanager"
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "Open Source Maven Libraries",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/JesusFreke/smali",
+"Header_Name" : "",
+"Dev_Name" : "Smali",
+"Icon_URL" : "",
+"About" : "An assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/Rosemoe/sora-editor",
+"Header_Name" : "",
+"Dev_Name" : "Sora Editor",
+"Icon_URL" : "",
+"About" : "A cool and optimized code editor on Android platform"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/bumptech/glide",
+"Header_Name" : "",
+"Dev_Name" : "Glide",
+"Icon_URL" : "",
+"About" : "An image loading and caching library for Android focused on smooth scrolling"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/aureldussauge/AnimatedGradientTextView",
+"Header_Name" : "",
+"Dev_Name" : "Animated Gradient TextView",
+"Icon_URL" : "",
+"About" : "An Android TextView, using animated color gradients"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/MegatronKing/StringFog",
+"Header_Name" : "",
+"Dev_Name" : "Megatron String Fog",
+"Icon_URL" : "",
+"About" : "An Android plug-in tool that automatically encrypts strings in bytecode"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/JakeWharton/dalvik-dx",
+"Header_Name" : "",
+"Dev_Name" : "Android dalvik dx",
+"Icon_URL" : "",
+"About" : "A standalone packaging of AOSP's platform/dalvik dx library."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/apache/commons-io",
+"Header_Name" : "",
+"Dev_Name" : "Commons-IO",
+"Icon_URL" : "",
+"About" : "A library of utilities to assist with developing IO functionality."
 }
-
 ]
