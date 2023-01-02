@@ -14,7 +14,62 @@
 "Opensource_Link" : "",
 "Header_Name" : "",
 "Dev_Name" : "Maharna's Tech",
-"Icon_URL" : "https://sketchub.in/storage/project_files/18549/9496427.png",
+"Icon_URL" : "https://bit.ly/3jCWhuJ",
 "About" : "Developer of Modder Hub"
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "Developed Using",
+"Dev_Name" : "Akd Studio",
+"Icon_URL" : "",
+"About" : "Contribute Modder Hub sharing Apk Editor Patches.. And also helped in sharing app with other's.Thanks"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Sketchware Pro",
+"Icon_URL" : "https://raw.githubusercontent.com/Sketchware-Pro/Sketchware-Pro/main/assets/Sketchware-Pro.png",
+"About" : "Thank you so much for Building Sketchware Pro for keep alive Sketchware (Orginal For Ever). Thanks to all Team Members"
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "Patch helper",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Akd Studio",
+"Icon_URL" : "",
+"About" : "Contribute Modder Hub sharing Apk Editor Patches.. And also helped in sharing app with other's.Thanks"
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "MT Regex Helper",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Ramakanta",
+"Icon_URL" : "",
+"About" : "Thanks sir for Making Ads Regex Tool v3.0 .Modder Hub uses all of the regex codes.From here ☺️"
 }
 ]
