@@ -21,10 +21,10 @@
 "Header_Enable" : "true",
 "Opensource" : "false",
 "Opensource_Link" : "",
-"Header_Name" : "Developed Using",
-"Dev_Name" : "Akd Studio",
+"Header_Name" : "Developed using",
+"Dev_Name" : "",
 "Icon_URL" : "",
-"About" : "Contribute Modder Hub sharing Apk Editor Patches.. And also helped in sharing app with other's.Thanks"
+"About" : ""
 },
 {
 "Header_Enable" : "false",
@@ -33,7 +33,7 @@
 "Header_Name" : "",
 "Dev_Name" : "Sketchware Pro",
 "Icon_URL" : "https://raw.githubusercontent.com/Sketchware-Pro/Sketchware-Pro/main/assets/Sketchware-Pro.png",
-"About" : "Thank you so much for Building Sketchware Pro for keep alive Sketchware (Orginal For Ever). Thanks to all Team Members"
+"About" : "Thank you so much for Building Sketchware Pro for keep alive Sketchware (Orginal For Ever). Thanks to all Team Members for making me more comfortable in building Modder Hub.."
 },
 {
 "Header_Enable" : "true",
@@ -89,5 +89,42 @@
 "Dev_Name" : "Delta Mods",
 "Icon_URL" : "",
 "About" : "Helped Modder Hub by protecting the package by Jiagu Protection..A friendly and amiable friend..❤️️"
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "My Special Thanks ❤️",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Zoulou",
+"Icon_URL" : "",
+"About" : "Thank you so much Brother.. Without your free hand support I think I am not in this stage."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Jag Kubarev",
+"Icon_URL" : "",
+"About" : "Thank you so much for sharing this tool on Your Tg Channel.."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "@Hak_init",
+"Icon_URL" : "",
+"About" : "Thank you so much for sharing this tool on Your Tg Channel.."
 }
+
 ]
