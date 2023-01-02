@@ -238,6 +238,24 @@
 {
 "Header_Enable" : "false",
 "Opensource" : "true",
+"Opensource_Link" : "https://github.com/skylot/jadx",
+"Header_Name" : "",
+"Dev_Name" : "Jadx",
+"Icon_URL" : "",
+"About" : "Dex to java decompiler.."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/leibnitz27/cfr",
+"Header_Name" : "",
+"Dev_Name" : "CFR",
+"Icon_URL" : "",
+"About" : "Another Java decompiler like jadx"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
 "Opensource_Link" : "https://github.com/JakeWharton/dalvik-dx",
 "Header_Name" : "",
 "Dev_Name" : "Android dalvik dx",
@@ -252,5 +270,14 @@
 "Dev_Name" : "Commons-IO",
 "Icon_URL" : "",
 "About" : "A library of utilities to assist with developing IO functionality."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/AtifSayings/Animatoo",
+"Header_Name" : "",
+"Dev_Name" : "Animatoo",
+"Icon_URL" : "",
+"About" : "A lightweight and easy-to-use Android library that provides many activity transition animations.."
 }
 ]
