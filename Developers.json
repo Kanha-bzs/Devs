@@ -175,11 +175,11 @@
 {
 "Header_Enable" : "false",
 "Opensource" : "true",
-"Opensource_Link" : "https://github.com/Angads25/android-filepicker",
+"Opensource_Link" : "https://github.com/dillbyrne/Bodha-Converter",
 "Header_Name" : "",
-"Dev_Name" : "File Picker",
+"Dev_Name" : "Bodha-Converter",
 "Icon_URL" : "",
-"About" : "Picking file Both multi choice and single choice without the help of System Filemanager"
+"About" : "A simple Binary-Octal-Decimal-Hex-Ascii Converter for Android"
 },
 {
 "Header_Enable" : "true",
@@ -216,6 +216,15 @@
 "Dev_Name" : "Glide",
 "Icon_URL" : "",
 "About" : "An image loading and caching library for Android focused on smooth scrolling"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/Angads25/android-filepicker",
+"Header_Name" : "",
+"Dev_Name" : "File Picker",
+"Icon_URL" : "",
+"About" : "Picking file Both multi choice and single choice without the help of System Filemanager"
 },
 {
 "Header_Enable" : "false",
@@ -274,10 +283,28 @@
 {
 "Header_Enable" : "false",
 "Opensource" : "true",
+"Opensource_Link" : "https://github.com/Sable/axml",
+"Header_Name" : "",
+"Dev_Name" : "axml",
+"Icon_URL" : "",
+"About" : "The axml components for reading binary Android XML files in Soot"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
 "Opensource_Link" : "https://github.com/AtifSayings/Animatoo",
 "Header_Name" : "",
 "Dev_Name" : "Animatoo",
 "Icon_URL" : "",
 "About" : "A lightweight and easy-to-use Android library that provides many activity transition animations.."
+}
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/mreram/ShowCaseView",
+"Header_Name" : "",
+"Dev_Name" : "ShowCaseView",
+"Icon_URL" : "",
+"About" : "A library is designed to highlight and showcase specific parts of apps to the user with an attractive and flat overlay."
 }
 ]
