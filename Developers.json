@@ -1,0 +1,310 @@
+[
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "Developer",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Maharna's Tech",
+"Icon_URL" : "https://bit.ly/3jCWhuJ",
+"About" : "Developer of Modder Hub"
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "Developed using",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Sketchware Pro",
+"Icon_URL" : "https://raw.githubusercontent.com/Sketchware-Pro/Sketchware-Pro/main/assets/Sketchware-Pro.png",
+"About" : "Thank you so much for Building Sketchware Pro for keep alive Sketchware (Orginal) for ever. Thanks to all Team Members for making me more comfortable in building Modder Hub.."
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "Apk Editor Patches",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Akd Studio",
+"Icon_URL" : "https://download.ru/previews/11bcdd6f4ac7794b901e5e1e0c83341df91d70bc/pgg8W2Y8/logo.large.png?e=1672935874&s=qG5og7X_Z5pbuQAah7stNA",
+"About" : "Contribute Modder Hub by sharing Apk Editor Patches.. And also helped in sharing app with other's.Thanks"
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "MT Regex",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Ramakanta",
+"Icon_URL" : "",
+"About" : "Thanks sir for Making Ads Regex Tool v3.0 .Modder Hub uses all of the regex codes from here ☺️"
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "Modder Hub Jiagu Protection",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Delta Mods",
+"Icon_URL" : "https://i.postimg.cc/RZDrtcXf/IMG-20230103-130841-931.jpg",
+"About" : "Helped Modder Hub by protecting the package by Jiagu Protection..An amiable friend..❤️️"
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "My Special Thanks ❤️",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Zoulou",
+"Icon_URL" : "",
+"About" : "Thank you so much Brother.. Without your free hand support I think I am not in this stage."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Timscriptov",
+"Icon_URL" : "https://avatars.githubusercontent.com/u/31324315?v=4",
+"About" : "Thank you so much sir for spending some time on me to teaching me about Dexlib2 usage.. Thank you so much Sir 🙏♥️"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Jag Kubarev",
+"Icon_URL" : "https://www.linkpicture.com/q/5305355290528565316_121.jpg",
+"About" : "Thank you so much for sharing this tool on Your Tg Channel.."
+},
+
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "@Hak_init",
+"Icon_URL" : "https://download.ru/g/qUEGKylg/0PVihxXvPrzK-zue5vHJnA/1672977330",
+"About" : "Thank you so much for sharing this tool on Your Tg Channel.."
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "GitHub Open source projects️",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/TimScriptov/ApkSignatureKill",
+"Header_Name" : "",
+"Dev_Name" : "Apk Signature Killer",
+"Icon_URL" : "",
+"About" : "Tool that can kill Signature Verification of App"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/Modify24x7/ApkStringDecryptor",
+"Header_Name" : "",
+"Dev_Name" : "Dex Decrypter",
+"Icon_URL" : "",
+"About" : "An example that can help you to decrypt an Encrypted classes.dex file"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/Maximoff/Elf-Editor-new",
+"Header_Name" : "",
+"Dev_Name" : "Lib(.so) Editor",
+"Icon_URL" : "",
+"About" : "Tool that can help you to edit lib(.so) Or Elf strings with new method"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/dillbyrne/Bodha-Converter",
+"Header_Name" : "",
+"Dev_Name" : "Bodha-Converter",
+"Icon_URL" : "",
+"About" : "A simple Binary-Octal-Decimal-Hex-Ascii Converter for Android"
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "Open Source Maven Libraries",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/JesusFreke/smali",
+"Header_Name" : "",
+"Dev_Name" : "Smali",
+"Icon_URL" : "",
+"About" : "An assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/Rosemoe/sora-editor",
+"Header_Name" : "",
+"Dev_Name" : "Sora Editor",
+"Icon_URL" : "",
+"About" : "A cool and optimized code editor on Android platform"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/bumptech/glide",
+"Header_Name" : "",
+"Dev_Name" : "Glide",
+"Icon_URL" : "",
+"About" : "An image loading and caching library for Android focused on smooth scrolling"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/Angads25/android-filepicker",
+"Header_Name" : "",
+"Dev_Name" : "File Picker",
+"Icon_URL" : "",
+"About" : "Picking file Both multi choice and single choice without the help of System Filemanager"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/aureldussauge/AnimatedGradientTextView",
+"Header_Name" : "",
+"Dev_Name" : "Animated Gradient TextView",
+"Icon_URL" : "",
+"About" : "An Android TextView, using animated color gradients"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/MegatronKing/StringFog",
+"Header_Name" : "",
+"Dev_Name" : "Megatron String Fog",
+"Icon_URL" : "",
+"About" : "An Android plug-in tool that automatically encrypts strings in bytecode"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/skylot/jadx",
+"Header_Name" : "",
+"Dev_Name" : "Jadx",
+"Icon_URL" : "",
+"About" : "Dex to java decompiler.."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/leibnitz27/cfr",
+"Header_Name" : "",
+"Dev_Name" : "CFR",
+"Icon_URL" : "",
+"About" : "Another Java decompiler like jadx"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/JakeWharton/dalvik-dx",
+"Header_Name" : "",
+"Dev_Name" : "Android dalvik dx",
+"Icon_URL" : "",
+"About" : "A standalone packaging of AOSP's platform/dalvik dx library."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/apache/commons-io",
+"Header_Name" : "",
+"Dev_Name" : "Commons-IO",
+"Icon_URL" : "",
+"About" : "A library of utilities to assist with developing IO functionality."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/Sable/axml",
+"Header_Name" : "",
+"Dev_Name" : "axml",
+"Icon_URL" : "",
+"About" : "The axml components for reading binary Android XML files in Soot"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/AtifSayings/Animatoo",
+"Header_Name" : "",
+"Dev_Name" : "Animatoo",
+"Icon_URL" : "",
+"About" : "A lightweight and easy-to-use Android library that provides many activity transition animations.."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/mreram/ShowCaseView",
+"Header_Name" : "",
+"Dev_Name" : "ShowCaseView",
+"Icon_URL" : "",
+"About" : "A library is designed to highlight and showcase specific parts of apps to the user with an attractive and flat overlay."
+}
+]
