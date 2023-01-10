@@ -256,6 +256,15 @@
 {
 "Header_Enable" : "false",
 "Opensource" : "true",
+"Opensource_Link" : "https://github.com/daimajia/NumberProgressBar",
+"Header_Name" : "",
+"Dev_Name" : "NumberProgressBar",
+"Icon_URL" : "",
+"About" : "A beautiful, slim Android ProgressBar."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
 "Opensource_Link" : "https://github.com/MegatronKing/StringFog",
 "Header_Name" : "",
 "Dev_Name" : "Megatron String Fog",
