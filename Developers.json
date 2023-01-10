@@ -211,6 +211,15 @@
 {
 "Header_Enable" : "false",
 "Opensource" : "true",
+"Opensource_Link" : "https://github.com/QuadFlask/colorpicker",
+"Header_Name" : "",
+"Dev_Name" : "Color picker",
+"Icon_URL" : "",
+"About" : "A simple android color picker with color wheel and lightness bar."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
 "Opensource_Link" : "https://github.com/bumptech/glide",
 "Header_Name" : "",
 "Dev_Name" : "Glide",
@@ -297,15 +306,6 @@
 "Dev_Name" : "Animatoo",
 "Icon_URL" : "",
 "About" : "A lightweight and easy-to-use Android library that provides many activity transition animations.."
-},
-{
-"Header_Enable" : "false",
-"Opensource" : "true",
-"Opensource_Link" : "https://github.com/square/okhttp",
-"Header_Name" : "",
-"Dev_Name" : "Okhttp",
-"Icon_URL" : "",
-"About" : "An HTTP client for Android, kotlin, and java."
 },
 {
 "Header_Enable" : "false",
