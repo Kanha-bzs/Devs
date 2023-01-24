@@ -149,6 +149,51 @@
 "Header_Enable" : "true",
 "Opensource" : "false",
 "Opensource_Link" : "",
+"Header_Name" : "Smali helper️",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Anant Kumar Vivek",
+"Icon_URL" : "https://www.linkpicture.com/q/new_logo_1.png",
+"About" : "Developer of Smali Helper Tool . Modder Hub uses all Smali Explanations from this tool.. Thanks for making and allow me to use your resources."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Unknown Modder",
+"Icon_URL" : "https://www.linkpicture.com/q/new_logo_1.png",
+"About" : "Idea and Resources Provider"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Zylearn",
+"Icon_URL" : "https://www.linkpicture.com/q/new_logo_1.png",
+"About" : "Idea and Resources Provider"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Harsita-K",
+"Icon_URL" : "https://www.linkpicture.com/q/new_logo_1.png",
+"About" : "Logo designer and beta tester of Smali Helper Tool."
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
 "Header_Name" : "GitHub Open source projects️",
 "Dev_Name" : "",
 "Icon_URL" : "",
