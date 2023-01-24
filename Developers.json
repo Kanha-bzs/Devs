@@ -301,6 +301,15 @@
 {
 "Header_Enable" : "false",
 "Opensource" : "true",
+"Opensource_Link" : "https://github.com/square/okhttp",
+"Header_Name" : "",
+"Dev_Name" : "Okhttp3",
+"Icon_URL" : "",
+"About" : "An HTTP client for Android, Java and Kotlin"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
 "Opensource_Link" : "https://github.com/daimajia/NumberProgressBar",
 "Header_Name" : "",
 "Dev_Name" : "NumberProgressBar",
@@ -346,11 +355,56 @@
 {
 "Header_Enable" : "false",
 "Opensource" : "true",
+"Opensource_Link" : "https://github.com/google/guava",
+"Header_Name" : "",
+"Dev_Name" : "guava",
+"Icon_URL" : "",
+"About" : "Google core libraries for Java."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/kostaskougios/cloning",
+"Header_Name" : "",
+"Dev_Name" : "cloning",
+"Icon_URL" : "",
+"About" : "Deep clone java objects."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/antlr/antlr4",
+"Header_Name" : "",
+"Dev_Name" : "Antlr4",
+"Icon_URL" : "",
+"About" : "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
 "Opensource_Link" : "https://github.com/apache/commons-io",
 "Header_Name" : "",
 "Dev_Name" : "Commons-IO",
 "Icon_URL" : "",
 "About" : "A library of utilities to assist with developing IO functionality."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://commons.apache.org/proper/commons-text/",
+"Header_Name" : "",
+"Dev_Name" : "Commons-text",
+"Icon_URL" : "",
+"About" : "Apache Commons Text is a library focused on algorithms working on strings."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/google/gson",
+"Header_Name" : "",
+"Dev_Name" : "gson",
+"Icon_URL" : "",
+"About" : "A Java serialization/deserialization library to convert Java Objects into JSON and back."
 },
 {
 "Header_Enable" : "false",
@@ -378,6 +432,15 @@
 "Dev_Name" : "ShowCaseView",
 "Icon_URL" : "",
 "About" : "A library is designed to highlight and showcase specific parts of apps to the user with an attractive and flat overlay."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/mcxiaoke/ApkSigner",
+"Header_Name" : "",
+"Dev_Name" : "apksig",
+"Icon_URL" : "",
+"About" : "apksig is a project which aims to simplify APK signing and checking whether APK's signatures should verify on Android."
 },
 {
 "Header_Enable" : "true",
