@@ -32,7 +32,7 @@
 "Opensource_Link" : "",
 "Header_Name" : "",
 "Dev_Name" : "Sketchware Pro",
-"Icon_URL" : "https://raw.githubusercontent.com/Sketchware-Pro/Sketchware-Pro/main/assets/Sketchware-Pro.png",
+"Icon_URL" : "https://cdn.discordapp.com/icons/790686719753846785/a_414d53bca854cb3297e22253083c6326.gif?size=160",
 "About" : "Thank you so much for Building Sketchware Pro for keep alive Sketchware (Orginal) for ever. Thanks to all Team Members for making me more comfortable in building Modder Hub.."
 },
 {
@@ -378,6 +378,15 @@
 "Dev_Name" : "Antlr4",
 "Icon_URL" : "",
 "About" : "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files."
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/SalomonBrys/ANR-WatchDog",
+"Header_Name" : "",
+"Dev_Name" : "ANR-WatchDog",
+"Icon_URL" : "",
+"About" : "A simple watchdog that detects Android ANR (Application Not Responding) error and throws a meaningful exception"
 },
 {
 "Header_Enable" : "false",
