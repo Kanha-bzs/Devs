@@ -194,6 +194,42 @@
 "Header_Enable" : "true",
 "Opensource" : "false",
 "Opensource_Link" : "",
+"Header_Name" : "Translators ❤️️",
+"Dev_Name" : "",
+"Icon_URL" : "",
+"About" : ""
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Alexa Liza",
+"Icon_URL" : "https://www.linkpicture.com/q/IMG_20230324_143040_739_4.jpg",
+"About" : "Help Modder Hub by translating the app in to Chinese, Arabic, Bangali"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "modderv",
+"Icon_URL" : "https://www.linkpicture.com/q/IMG_20230324_131241_005_4.jpg",
+"About" : "Help Modder Hub by translating the app in to Italian Language"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "BEKTI",
+"Icon_URL" : "https://www.linkpicture.com/q/自定义模板_批量套版.png",
+"About" : "Help Modder Hub by translating the app in to Indonesian Language"
+},
+{
+"Header_Enable" : "true",
+"Opensource" : "false",
+"Opensource_Link" : "",
 "Header_Name" : "GitHub Open source projects️",
 "Dev_Name" : "",
 "Icon_URL" : "",
