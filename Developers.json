@@ -146,6 +146,15 @@
 "About" : "Thank you so much for sharing this tool on Your Tg Channel.."
 },
 {
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Tawhid (pro modder)",
+"Icon_URL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YGNzVzbOWHRObz4KlE0vcrkUMy9kgo6iVw&usqp=CAU",
+"About" : "A friend who helped Modder Hub by fixing the NullPointerException in runtime.. I really indebted to him ♥️"
+},
+{
 "Header_Enable" : "true",
 "Opensource" : "false",
 "Opensource_Link" : "",
