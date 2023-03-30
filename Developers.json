@@ -155,6 +155,15 @@
 "About" : "A friend who helped Modder Hub by fixing the NullPointerException in runtime.. I really indebted to him ♥️"
 },
 {
+"Header_Enable" : "false",
+"Opensource" : "false",
+"Opensource_Link" : "",
+"Header_Name" : "",
+"Dev_Name" : "Lexa",
+"Icon_URL" : "https://media.discordapp.net/attachments/1077936029228601404/1090909485238857821/IMG_20230330_110433_163.jpg",
+"About" : "A friend who helped Modder Hub by finding bugs and errors in Some Functions. Thank you ♥️"
+},
+{
 "Header_Enable" : "true",
 "Opensource" : "false",
 "Opensource_Link" : "",
