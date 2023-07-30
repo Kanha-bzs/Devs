@@ -1,5 +1,5 @@
 {
-  "About_Update" : "1)Fix Bugs\n2) Performance Improvement\n3)Enhanced for direct patching",
-  "Preference" : "MT",
+  "About_Update" : "Now supporting for Smali Patching method.. If your app don't have permission of internet then you should use main application method or you can add internet access permission in app manifest manually 👍",
+  "Preference" : "MT2",
   "Download_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/UpdateV2Patch.zip"
 }
