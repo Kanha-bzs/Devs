@@ -1,5 +1,5 @@
 {
-  "About_Update" : "Now supporting for Smali patching Method",
-  "Preference" : "MT3",
+  "About_Update" : "1)Now supporting for Smali patching Method\n2)Fixed crash serious bugs",
+  "Preference" : "MT4",
   "Download_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/UpdateNotification.zip"
 }
