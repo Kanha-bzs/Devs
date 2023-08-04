@@ -337,6 +337,15 @@
 {
 "Header_Enable" : "false",
 "Opensource" : "true",
+"Opensource_Link" : "https://github.com/TimScriptov/apksigner",
+"Header_Name" : "",
+"Dev_Name" : "apksigner",
+"Icon_URL" : "",
+"About" : "ApkSigner library Multiplatform.. A modified and optimised version of apksign Library.. Thanks Timsriptov sir "
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
 "Opensource_Link" : "https://github.com/Angads25/android-filepicker",
 "Header_Name" : "",
 "Dev_Name" : "File Picker",
@@ -360,6 +369,15 @@
 "Dev_Name" : "Okhttp3",
 "Icon_URL" : "",
 "About" : "An HTTP client for Android, Java and Kotlin"
+},
+{
+"Header_Enable" : "false",
+"Opensource" : "true",
+"Opensource_Link" : "https://github.com/eclipse-jdt/eclipse.jdt.core",
+"Header_Name" : "",
+"Dev_Name" : "eclipse jdt",
+"Icon_URL" : "",
+"About" : "A java compiler"
 },
 {
 "Header_Enable" : "false",
