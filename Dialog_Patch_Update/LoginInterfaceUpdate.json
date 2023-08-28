@@ -2,3 +2,4 @@
   "About_Update": "1) Fixed bug that  login screen not properly covering the  screen as a result anybody able to access the app by clicking toolbar functions..\n\n2) Fixed bug that when user returning again to the app while login .. some time login screen not showing as a result user directly using the app features without verification by Modder 😅\n\nThank you for choosing Modder Hub ♥️",
   "Preference": "MT2",
   "Download_Link": "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/LoginInterfacePatch.zip"
+}
