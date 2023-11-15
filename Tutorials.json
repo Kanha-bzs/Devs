@@ -1,78 +1,86 @@
 [
-{
-"Tutorial_Name" : "How to buy Modder Hub vip ?",
-"Tutorial_Link" : "https://youtu.be/nvMZw2ouz0A"
-},
-{
-"Tutorial_Name" : "How to make IOS Dialog?",
-"Tutorial_Link" : "https://youtu.be/WpLFQl0NMp8"
-},
-{
-"Tutorial_Name" : "How to host and use update dialog v1 ?",
-"Tutorial_Link" : "https://youtu.be/7hprwHQVmZQ"
-},
-{
-"Tutorial_Name" : "How to use Smali2Java  ?",
-"Tutorial_Link" : "https://youtu.be/wyOpJAIE5a4"
-},
-{
-"Tutorial_Name" : "How to use Login Interface Maker ?",
-"Tutorial_Link" : "https://t.me/Modder_Hub/454"
-},
-{
-"Tutorial_Name" : "How to use Dex Redivide function ?",
-"Tutorial_Link" : "https://youtu.be/EkyjWb2Ws5Q?si=el5BcKi_2Xez1PeD"
-},
-{
-"Tutorial_Name" : "How to use Smali Flow Chart (VIP + Free) function ?",
-"Tutorial_Link" : "https://youtu.be/BjuNnu1XCcU"
-},
-{
-"Tutorial_Name" : "How to Patch update dialog v2 into any apk ?",
-"Tutorial_Link" : "https://youtu.be/4xgqYg8gY8Y"
-},
-{
-"Tutorial_Name" : "How to use Online Notification Maker ?",
-"Tutorial_Link" : "https://youtu.be/fUnBH-6lpW4"
-},
-{
-"Tutorial_Name" : "How to make Animated Toast ?",
-"Tutorial_Link" : "https://youtu.be/G6zs1-xNb4w"
-},
-{
-"Tutorial_Name" : "How to make animated dialog ?",
-"Tutorial_Link" : "https://youtu.be/pWI52qU-3TQ"
-},
-{
-"Tutorial_Name" : "How to edit Lib(.so) Strings ?",
-"Tutorial_Link" : "https://youtu.be/v-kW3QDwVyM"
-},
-{
-"Tutorial_Name" : "How to use Notification Maker ?",
-"Tutorial_Link" : "https://youtu.be/rrwPNGQjCHU"
-},
-{
-"Tutorial_Name" : "How to add Expired Dialog in app ?",
-"Tutorial_Link" : "https://youtu.be/B0O_S5ZNX9A"
-},
-{
-"Tutorial_Name" : "How to to use Any Dialog Patcher (VIP)?",
-"Tutorial_Link" : "https://youtu.be/nRVMJxsgRMc"
-},
-{
-"Tutorial_Name" : "How to decompile and compile binary xml file using Modder Hub ?",
-"Tutorial_Link" : "https://youtu.be/9StMjKmFZpc"
-},
-{
-"Tutorial_Name" : "How to inject logcat reader in any app ?",
-"Tutorial_Link" : "https://youtu.be/3em9cHk5kEc"
-},
-{
-"Tutorial_Name" : "How to make and patch VIP floating Dialog ?",
-"Tutorial_Link" : "https://youtu.be/vCBglauHlmM"
-},
-{
-"Tutorial_Name" : "How to use Modder Hub (Complete Tutorial) ?",
-"Tutorial_Link" : "https://youtu.be/gQlhfV2Yc-w"
-}
+  {
+    "Tutorial_Name": "How to buy Modder Hub vip ?",
+    "Tutorial_Link": "https://youtu.be/nvMZw2ouz0A"
+  },
+  {
+    "Tutorial_Name": "How to make IOS Dialog?",
+    "Tutorial_Link": "https://youtu.be/WpLFQl0NMp8"
+  },
+  {
+    "Tutorial_Name": "How to host and use update dialog v1 ?",
+    "Tutorial_Link": "https://youtu.be/7hprwHQVmZQ"
+  },
+  {
+    "Tutorial_Name": "How to use Smali2Java  ?",
+    "Tutorial_Link": "https://youtu.be/wyOpJAIE5a4"
+  },
+  {
+    "Tutorial_Name": "How to use Login Interface Maker ?",
+    "Tutorial_Link": "https://t.me/Modder_Hub/454"
+  },
+  {
+    "Tutorial_Name": "How to use floating Translation ?",
+    "Tutorial_Link": "https://t.me/Modder_Hub/522"
+  },
+  {
+    "Tutorial_Name": "How to use Dex Redivide function ?",
+    "Tutorial_Link": "https://youtu.be/EkyjWb2Ws5Q?si=el5BcKi_2Xez1PeD"
+  },
+  {
+    "Tutorial_Name": "How to use Smali Flow Chart (VIP + Free) function ?",
+    "Tutorial_Link": "https://youtu.be/BjuNnu1XCcU"
+  },
+  {
+    "Tutorial_Name": "How to use text Comparator ",
+    "Tutorial_Link": "https://t.me/Modder_Hub/532"
+  },
+  {
+    "Tutorial_Name": "How to Patch update dialog v2 into any apk ?",
+    "Tutorial_Link": "https://youtu.be/4xgqYg8gY8Y"
+  },
+  {
+    "Tutorial_Name": "How to use Online Notification Maker ?",
+    "Tutorial_Link": "https://youtu.be/fUnBH-6lpW4"
+  },
+  {
+    "Tutorial_Name": "How to make Animated Toast ?",
+    "Tutorial_Link": "https://youtu.be/G6zs1-xNb4w"
+  },
+  {
+    "Tutorial_Name": "How to make animated dialog ?",
+    "Tutorial_Link": "https://youtu.be/pWI52qU-3TQ"
+  },
+  {
+    "Tutorial_Name": "How to edit Lib(.so) Strings ?",
+    "Tutorial_Link": "https://youtu.be/v-kW3QDwVyM"
+  },
+  {
+    "Tutorial_Name": "How to use Notification Maker ?",
+    "Tutorial_Link": "https://youtu.be/rrwPNGQjCHU"
+  },
+  {
+    "Tutorial_Name": "How to add Expired Dialog in app ?",
+    "Tutorial_Link": "https://youtu.be/B0O_S5ZNX9A"
+  },
+  {
+    "Tutorial_Name": "How to to use Any Dialog Patcher (VIP)?",
+    "Tutorial_Link": "https://youtu.be/nRVMJxsgRMc"
+  },
+  {
+    "Tutorial_Name": "How to decompile and compile binary xml file using Modder Hub ?",
+    "Tutorial_Link": "https://youtu.be/9StMjKmFZpc"
+  },
+  {
+    "Tutorial_Name": "How to inject logcat reader in any app ?",
+    "Tutorial_Link": "https://youtu.be/3em9cHk5kEc"
+  },
+  {
+    "Tutorial_Name": "How to make and patch VIP floating Dialog ?",
+    "Tutorial_Link": "https://youtu.be/vCBglauHlmM"
+  },
+  {
+    "Tutorial_Name": "How to use Modder Hub (Complete Tutorial) ?",
+    "Tutorial_Link": "https://youtu.be/gQlhfV2Yc-w"
+  }
 ]
