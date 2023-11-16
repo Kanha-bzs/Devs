@@ -1,11 +1,11 @@
 [
-    {
-        "dlg_name": "New Test Dialog",
-        "dlg_about": "Only for testing purpose",
-        "isOnlyForVIP": "true",
-        "isOneTimeDownload": "true",
-        "download_link": "afXyF0dLUR4lmpANJaQH9TuoZcy65kYp",
-        "dlg_preview_data": "[ { \"Title\" : \"Image 1\", \"ImageLink\" : \"https://image.com\" }, { \"Title\" : \"Image 2\", \"ImageLink\" : \"https://image2.com\" }]",
-        "dlg_design_data_for_apply": "[{\"Dlg_Information\":\"Set title\",\"User_Input\":\"\",\"Is_Color_Input\":\"false\"},{\"Dlg_Information\":\"Set title color\",\"User_Input\":\"\",\"Is_Color_Input\":\"true\"},{\"Dlg_Information\":\"Set message\",\"User_Input\":\"\",\"Is_Color_Input\":\"false\"},{\"Dlg_Information\":\"Set message color\",\"User_Input\":\"\",\"Is_Color_Input\":\"true\"}]"
-    }
+  {
+    "dlg_name": "Upgraded Update BE Dialog(VIP Only)",
+    "dlg_about": "Here everything is same as Update V2 but in update V2 you may face size error in dialog box in different different devices but here all the things are fixed and it will work fine in every device..Click preview then Tutorial to understand how to implement and how it looks in other devices.. Alright..\n\nBut please note , Normal Update V2 you need to put version name to show dialog in your user app but here in Upgraded Update V2 you need to put Version code instead of Version name .. Alright 👍.. \nWatch Tutorial to understand more 🔥🔥",
+    "isOnlyForVIP": "true",
+    "isOneTimeDownload": "false",
+    "download_link": "afXyF0dLUR4lmpANJaQH9TuoZcy65kYp",
+    "dlg_preview_data": "[\n    {\n        \"Title\": \"Image Preview\",\n        \"ImageLink\": \"https://image.com\"\n    },\n    {\n        \"Title\": \"YT Tutorial\",\n        \"ImageLink\": \"https://image2.com\"\n    }\n]",
+    "dlg_design_data_for_apply": "[\n    {\n        \"Dlg_Information\": \"Set title\",\n        \"User_Input\": \"\",\n        \"Is_Color_Input\": \"false\"\n    },\n    {\n        \"Dlg_Information\": \"Set title color\",\n        \"User_Input\": \"\",\n        \"Is_Color_Input\": \"true\"\n    },\n    {\n        \"Dlg_Information\": \"Set message\",\n        \"User_Input\": \"\",\n        \"Is_Color_Input\": \"false\"\n    },\n    {\n        \"Dlg_Information\": \"Set message color\",\n        \"User_Input\": \"\",\n        \"Is_Color_Input\": \"true\"\n    }\n]"
+  }
 ]
