@@ -1,0 +1,11 @@
+[
+    {
+        "dlg_name": "New Test Dialog",
+        "dlg_about": "Only for testing purpose",
+        "isOnlyForVIP": "true",
+        "isOneTimeDownload": "true",
+        "download_link": "afXyF0dLUR4lmpANJaQH9TuoZcy65kYp",
+        "dlg_preview_data": "[ { \"Title\" : \"Image 1\", \"ImageLink\" : \"https://image.com\" }, { \"Title\" : \"Image 2\", \"ImageLink\" : \"https://image2.com\" }]",
+        "dlg_design_data_for_apply": "[{\"Dlg_Information\":\"Set title\",\"User_Input\":\"\",\"Is_Color_Input\":\"false\"},{\"Dlg_Information\":\"Set title color\",\"User_Input\":\"\",\"Is_Color_Input\":\"true\"},{\"Dlg_Information\":\"Set message\",\"User_Input\":\"\",\"Is_Color_Input\":\"false\"},{\"Dlg_Information\":\"Set message color\",\"User_Input\":\"\",\"Is_Color_Input\":\"true\"}]"
+    }
+]
