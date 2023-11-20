@@ -1,11 +1,11 @@
-
+[
   {
     "dlg_name": "Upgraded Update V2 Dialog(VIP Only)",
     "dlg_about": "Here everything is same as Update V2 but in update V2 you may face size error in dialog box in different different devices but here all the things were fixed and it will work fine in every device..Click preview then Tutorial to understand how to implement and how it looks in other devices.. Alright..\n\nBut please note , \nNormal Update V2 you need to put version name to show update dialog in your user app but here in Upgraded Update V2 you need to put Version code instead of Version name  remember it.\n\n\n\nWatch Tutorial to understand more 🔥🔥",
     "isOnlyForVIP": "true",
     "isOneTimeDownload": "true",
-    "download_link": "vBKNnl7Y8gE5LewEzPHHjkDlSQeRDs1mUoxwEEsJFMAHNZhPhU5Mgnv+DbI8+E+p7rVeh+250IgdK8q1szspSwouiR3ya0DYm/0qIjvJIfadkouBnROC9Q==",
-    "dlg_preview_data": "[\n    {\n        \"Title\": \"Image Preview\",\n        \"ImageLink\": \"https://image.com\"\n    },\n    {\n        \"Title\": \"YT Tutorial\",\n        \"ImageLink\": \"https://youtu.be/4xgqYg8gY8Y\"\n    },\n {\n        \"Title\": \"Tg Tutorial\",\n        \"ImageLink\": \"https://t.me/Modder_Hub/522\"\n    }\n]",
+    "download_link": "vBKNnl7Y8gE5LewEzPHHjlOBcngdz3/yKKkC2YJZUuWFhRAjkeaTd5aXKbGJ516Pl7E9NDGCvwSBPhVPGaypkW1SmvqMRVOAoYarFXlsteGPP4aCcs+devqhuhKAp9kG0b23QQb2uaY=",
+    "dlg_preview_data": "[\n    {\n        \"Title\": \"Image Preview\",\n        \"ImageLink\": \"https://iili.io/JnUBhG4.jpg\"\n    },\n    {\n        \"Title\": \"YT Tutorial\",\n        \"ImageLink\": \"https://youtu.be/FZo5bXS4sas?si=YAMGKTblMpqGuB9R\"\n    },\n {\n        \"Title\": \"Ask question in TG\",\n        \"ImageLink\": \"https://t.me/Modder_Hub/\"\n    }\n]",
     "dlg_design_data_for_apply": "[\n    {\n        \"Dlg_Information\": \"Set title\",\n        \"User_Input\": \"\",\n        \"Is_Color_Input\": \"false\"\n    },\n    {\n        \"Dlg_Information\": \"Set title color\",\n        \"User_Input\": \"\",\n        \"Is_Color_Input\": \"true\"\n    },\n    {\n        \"Dlg_Information\": \"Set message\",\n        \"User_Input\": \"\",\n        \"Is_Color_Input\": \"false\"\n    },\n    {\n        \"Dlg_Information\": \"Set message color\",\n        \"User_Input\": \"\",\n        \"Is_Color_Input\": \"true\"\n    }\n]"
   }
 ]
