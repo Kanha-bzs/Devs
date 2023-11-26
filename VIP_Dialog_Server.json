@@ -1,96 +1,53 @@
 [
-    {
-        "dlg_name": "Upgraded Update V2 Dialog(VIP Only)",
-        "dlg_about": "Here everything is same as Update V2 but in update V2 you may face size error in dialog box in different different devices but here all the things were fixed and it will work fine in every device..Click preview then Tutorial to understand how to implement and how it looks in other devices.. Alright..\n\nBut please note , \nNormal Update V2 you need to put version name to show update dialog in your user app but here in Upgraded Update V2 you need to put Version code instead of Version name  remember it.\n\n\n\nWatch Tutorial to understand more 🔥🔥",
-        "isOnlyForVIP": false,
-        "isOneTimeDownload": true,
-        "download_link": "vBKNnl7Y8gE5LewEzPHHjkDlSQeRDs1m79X33Tldz+vwUjaJ3xKcrKAVJ0YSIySXRw/QgUMkQ8rqqwuAQDpq541nN5nCguj18UZ6ED3kYF7N0qdKEUmmKA1FCmDT5pKgBm0G/YSG6PM=",
-        "dlg_preview_data": [
-            {
-                "Title": "Image Preview",
-                "ImageLink": "https://iili.io/JnUBhG4.jpg"
-            },
-            {
-                "Title": "YT Tutorial",
-                "ImageLink": "https://youtu.be/FZo5bXS4sas?si=YAMGKTblMpqGuB9R"
-            },
-            {
-                "Title": "Ask question in TG",
-                "ImageLink": "https://t.me/Modder_Hub/"
-            }
-        ],
-        "dlg_design_data_for_apply": [
-            {
-                "Dlg_Information": "Set title",
-                "User_Input": "",
-                "User_Input_Tag": "set_title",
-                "Is_Color_Input": false
-            },
-            {
-                "Dlg_Information": "Set title color",
-                "User_Input": "",
-                "User_Input_Tag": "set_title_color",
-                "Is_Color_Input": true
-            },
-            {
-                "Dlg_Information": "Set message",
-                "User_Input": "",
-                "User_Input_Tag": "set_msg",
-                "Is_Color_Input": false
-            },
-            {
-                "Dlg_Information": "Set message color",
-                "User_Input": "",
-                "User_Input_Tag": "set_msg_color",
-                "Is_Color_Input": true
-            }
-        ]
-    },
-    {
-        "dlg_name": "Upgraded Update V2 Dialog(BottomSheetsDialog)(VIP Only)",
-        "dlg_about": "Everything same as Upgrade Update V2 (Normal) .. Just check the assets file name and codes .. all are here uses \"2 \" .. Like assets file \"File2\" , \"UI2\" , method name \"Process2\" etc.. Just watch the video and implement in your mod 🔥",
-        "isOnlyForVIP": true,
-        "isOneTimeDownload": false,
-        "download_link": "Xb8Zp3/cs8NP5tTT7VjJCr2mabQWq7wVNaTFFl1HRwcPJvkXUDx/p+zdez5zFokMl7E9NDGCvwSBPhVPGaypkSJ/cmG3FkEq6g/GgOwLvTKPP4aCcs+devqhuhKAp9kGtXl07hzsQjf8dfqIRGqh+fPL\nV5q7iNF+",
-        "dlg_preview_data": [
-            {
-                "Title": "Image Preview TG",
-                "ImageLink": "https://t.me/Modder_Hub/541"
-            },
-            {
-                "Title": "YT Tutorial",
-                "ImageLink": "https://youtu.be/FZo5bXS4sas?si=YAMGKTblMpqGuB9R"
-            },
-            {
-                "Title": "Ask question in TG",
-                "ImageLink": "https://t.me/Modder_Hub/"
-            }
-        ],
-        "dlg_design_data_for_apply": [
-            {
-                "Dlg_Information": "Set title",
-                "User_Input": "",
-                "User_Input_Tag": "set_title",
-                "Is_Color_Input": false
-            },
-            {
-                "Dlg_Information": "Set title color",
-                "User_Input": "",
-                "User_Input_Tag": "set_title_color",
-                "Is_Color_Input": true
-            },
-            {
-                "Dlg_Information": "Set message",
-                "User_Input": "",
-                "User_Input_Tag": "set_msg",
-                "Is_Color_Input": false
-            },
-            {
-                "Dlg_Information": "Set message color",
-                "User_Input": "",
-                "User_Input_Tag": "set_msg_color",
-                "Is_Color_Input": true
-            }
-        ]
-    }
+  {
+    "dlg_name": "Upgraded Update Dialog V2",
+    "dlg_about": "Here everything is same as Update V2 but in update V2 you may face size error in dialog box in different different devices but here all the things were fixed and it will work fine in every device..Click preview then Tutorial to understand how to implement and how it looks in other devices.. Alright..\n\nBut please note , \nNormal Update V2 you need to put version name to show update dialog in your user app but here in Upgraded Update V2 you need to put Version code instead of Version name  remember it.\n\n\n\nWatch Tutorial to understand more 🔥🔥",
+    "isUpdateBasedDialog": true,
+    "isOnlyForVIP_Preview": true,
+    "download_link": "vBKNnl7Y8gE5LewEzPHHjkDlSQeRDs1m79X33Tldz+vwUjaJ3xKcrKAVJ0YSIySXRw/QgUMkQ8rqqwuAQDpq541nN5nCguj18UZ6ED3kYF7N0qdKEUmmKA1FCmDT5pKgBm0G/YSG6PM=",
+    "asset_ui_file_name": "UI",
+    "asset_font_file_1": null,
+    "asset_font_file_2": null,
+    "asset_image_name": null,
+    "dlg_preview_data": [
+      {
+        "Title": "Image Preview",
+        "ImageLink": "https://iili.io/JnUBhG4.jpg"
+      },
+      {
+        "Title": "YT Tutorial",
+        "ImageLink": "https://youtu.be/FZo5bXS4sas?si=YAMGKTblMpqGuB9R"
+      },
+      {
+        "Title": "Ask question in TG",
+        "ImageLink": "https://t.me/Modder_Hub/"
+      }
+    ],
+    "dlg_design_data_for_apply": [
+      {
+        "Dlg_Information": "Set title",
+        "User_Input": "",
+        "User_Input_Tag": "set_title",
+        "Is_Color_Input": false
+      },
+      {
+        "Dlg_Information": "Set title color",
+        "User_Input": "",
+        "User_Input_Tag": "set_title_color",
+        "Is_Color_Input": true
+      },
+      {
+        "Dlg_Information": "Set message",
+        "User_Input": "",
+        "User_Input_Tag": "set_msg",
+        "Is_Color_Input": false
+      },
+      {
+        "Dlg_Information": "Set message color",
+        "User_Input": "",
+        "User_Input_Tag": "set_msg_color",
+        "Is_Color_Input": true
+      }
+    ]
+  }
 ]
