@@ -23,42 +23,129 @@
     ],
     "dlg_design_data_for_apply": [
       {
-        "Dlg_Information": "Set title",
+        "Dlg_Information": "Set dialog title",
         "User_Input": "",
-        "User_Input_Tag": "set_title",
+        "User_Input_Tag": "Dialog_Title",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set title color",
         "User_Input": "",
-        "User_Input_Tag": "set_title_color",
+        "User_Input_Tag": "Title_Color",
         "Is_Color_Input": true,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Set dialog subtitle",
+        "User_Input": "",
+        "User_Input_Tag": "Dialog_Subtitle",
+        "Is_Color_Input": false,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Set dialog icon link",
+        "User_Input": "",
+        "User_Input_Tag": "Icon_Link",
+        "Is_Color_Input": false,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set message",
         "User_Input": "",
-        "User_Input_Tag": "set_msg",
+        "User_Input_Tag": "Dialog_Message",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set message color",
         "User_Input": "",
-        "User_Input_Tag": "set_msg_color",
+        "User_Input_Tag": "Message_Color",
         "Is_Color_Input": true,
         "isChoiceMode": false
       },
       {
+        "Dlg_Information": "Set submessage (Ex what's new)",
+        "User_Input": "",
+        "User_Input_Tag": "Dialog_Submessage",
+        "Is_Color_Input": false,
+        "isChoiceMode": false
+      },
+      {
         "Dlg_Information": "Is version Update ?",
-        "User_Input": "Yes",
-        "User_Input_Tag": "version_update",
+        "User_Input": "true",
+        "User_Input_Tag": "Update_Type",
         "Is_Color_Input": false,
         "isChoiceMode": true,
         "More_Info": "If you set version update \"yes\" then your Dialog will show when your input version(Server) is not equal to current version of user's installed app.. else\n\n if you set version update \"No\" then the dialog will show one time only ..",
-        "radioBtn1_txt": "Yes",
-        "radioBtn2_txt": "No"
+        "radioBtn1_txt": "true",
+        "radioBtn2_txt": "false"
+      },
+      {
+        "Dlg_Information": "Set new version",
+        "User_Input": "",
+        "User_Input_Tag": "New_Version",
+        "Is_Color_Input": false,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Set Download button text",
+        "User_Input": "",
+        "User_Input_Tag": "Download_Button_Text",
+        "Is_Color_Input": false,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Set Download button link",
+        "User_Input": "",
+        "User_Input_Tag": "Download_Link",
+        "Is_Color_Input": false,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Set Download button text color",
+        "User_Input": "",
+        "User_Input_Tag": "Download_Button_Text_Color",
+        "Is_Color_Input": true,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Set Download button background color",
+        "User_Input": "",
+        "User_Input_Tag": "Download_Button_Background",
+        "Is_Color_Input": true,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Cancel button visibility ?",
+        "User_Input": "VISIBLE",
+        "User_Input_Tag": "Cancel_Visibility",
+        "Is_Color_Input": false,
+        "isChoiceMode": true,
+        "More_Info": "If you set Cancel button visible then cancel button will show when you send user update... else if you set Invisible then cancel button will not show any more on User app.",
+        "radioBtn1_txt": "VISIBLE",
+        "radioBtn2_txt": "INVISIBLE"
+      },
+      {
+        "Dlg_Information": "Set cancel button text",
+        "User_Input": "",
+        "User_Input_Tag": "Cancel_Button_Text",
+        "Is_Color_Input": false,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Set cancel button text color",
+        "User_Input": "",
+        "User_Input_Tag": "Cancel_Button_Text_Color",
+        "Is_Color_Input": true,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Set cancel button background color",
+        "User_Input": "",
+        "User_Input_Tag": "Download_Button_Background",
+        "Is_Color_Input": true,
+        "isChoiceMode": false
       }
     ]
   }
