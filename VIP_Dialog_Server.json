@@ -54,7 +54,7 @@
         "Dlg_Information": "Is version Update ?",
         "User_Input": "Yes",
         "User_Input_Tag": "version_update",
-        "Is_Color_Input": true,
+        "Is_Color_Input": false,
         "isChoiceMode": true,
         "More_Info": "If you set version update \"yes\" then your Dialog will show when your input version(Server) is not equal to current version of user's installed app.. else\n\n if you set version update \"No\" then the dialog will show one time only ..",
         "radioBtn1_txt": "Yes",
