@@ -24,15 +24,8 @@
     ],
     "dlg_design_data_for_apply": [
       {
-        "Dlg_Information": "",
-        "User_Input": "",
-        "User_Input_Tag": "",
-        "Is_Color_Input": false,
-        "isChoiceMode": false,
-        "Header": "Dialog Header Settings :"
-      },
-      {
         "Dlg_Information": "Set dialog title",
+        "Header": "Dialog header settings :",
         "User_Input": "",
         "User_Input_Tag": "Dialog_Title",
         "Is_Color_Input": false,
@@ -81,15 +74,8 @@
         "isChoiceMode": false
       },
       {
-        "Dlg_Information": "",
-        "User_Input": "",
-        "User_Input_Tag": "",
-        "Is_Color_Input": false,
-        "isChoiceMode": false,
-        "Header": "Version Settings :"
-      },
-      {
         "Dlg_Information": "Is version Update ?",
+        "Header": "Version Settings :",
         "User_Input": "true",
         "User_Input_Tag": "Update_Type",
         "Is_Color_Input": false,
@@ -110,15 +96,8 @@
         "isChoiceMode": false
       },
       {
-        "Dlg_Information": "",
-        "User_Input": "",
-        "User_Input_Tag": "",
-        "Is_Color_Input": false,
-        "isChoiceMode": false,
-        "Header": "Download Button Settings :"
-      },
-      {
         "Dlg_Information": "Set Download button text",
+        "Header": "Download Button Settings :",
         "User_Input": "",
         "User_Input_Tag": "Download_Button_Text",
         "Is_Color_Input": false,
@@ -146,15 +125,8 @@
         "isChoiceMode": false
       },
       {
-        "Dlg_Information": "",
-        "User_Input": "",
-        "User_Input_Tag": "",
-        "Is_Color_Input": true,
-        "isChoiceMode": false,
-        "Header": "Cancel button settings :"
-      },
-      {
         "Dlg_Information": "Cancel button visibility ?",
+        "Header": "Cancel button settings : ",
         "User_Input": "VISIBLE",
         "User_Input_Tag": "Cancel_Visibility",
         "Is_Color_Input": false,
