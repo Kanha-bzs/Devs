@@ -161,5 +161,80 @@
         "isChoiceMode": false
       }
     ]
+  },
+  {
+    "dlg_name": "Upgraded IOS Dialog v1",
+    "dlg_about": "Everything same as old IOS Dialog but here is a fixed UI version..\n\nWatch video to understand.. how it is different from normal IOS Dialog 👍",
+    "isUpdateBasedDialog": false,
+    "isOnlyForVIP_Preview": true,
+    "download_link": "vBKNnl7Y8gE5LewEzPHHjkDlSQeRDs1m79X33Tldz+vwUjaJ3xKcrKAVJ0YSIySXRw/QgUMkQ8qswP8jiPFqCSV2TDEdBQJum//8Hq9h4X7E+fLaJOzNKAZtBv2Ehujz",
+    "category": "Offline Dialogs",
+    "ର_କି": "Default",
+    "asset_json_file_name": "File",
+    "instructions_after_patch": "Please read all instructions that given in ReadME.txt file",
+    "isDirectJsonCreationAvailable": true,
+    "dlg_preview_data": [
+      {
+        "Title": "Image Preview",
+        "ImageLink": "https://iili.io/JnUBhG4.jpg"
+      },
+      {
+        "Title": "YT Tutorial",
+        "ImageLink": "https://youtu.be/FZo5bXS4sas?si=YAMGKTblMpqGuB9R"
+      },
+      {
+        "Title": "Ask question in TG",
+        "ImageLink": "https://t.me/Modder_Hub/"
+      }
+    ],
+    "dlg_design_data_for_apply": [
+      {
+        "Dlg_Information": "Set dialog title",
+        "Header": "Dialog header settings :",
+        "User_Input": "",
+        "User_Input_Tag": "Dialog_Title",
+        "Is_Color_Input": false,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Set Dialog message",
+        "User_Input": "",
+        "User_Input_Tag": "Dialog_Message",
+        "Is_Color_Input": false,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Set visit button text",
+        "Header": "Visit Button settings :",
+        "User_Input": "",
+        "User_Input_Tag": "Visit_Button_Text",
+        "Is_Color_Input": false,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Set visit button link",
+        "User_Input": "",
+        "User_Input_Tag": "Visit_Link",
+        "Is_Color_Input": false,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Set cancel button text",
+        "Header": "Cancel button settings :",
+        "User_Input": "",
+        "User_Input_Tag": "Cancel_Button_Text",
+        "Is_Color_Input": false,
+        "isChoiceMode": false
+      },
+      {
+        "Dlg_Information": "Set show time",
+        "Header": "More settings :",
+        "User_Input": "",
+        "InputDigitOnly": "true",
+        "User_Input_Tag": "Show_Time",
+        "Is_Color_Input": false,
+        "isChoiceMode": false
+      }
+    ]
   }
 ]
