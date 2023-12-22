@@ -4,9 +4,10 @@
     "dlg_about": "Here everything is same as Update V2 but in update V2 you may face size error in dialog box in different different devices but here all the things were fixed and it will work fine in every device..Click preview then Tutorial to understand how to implement and how it looks in other devices.. Alright..\n\nBut please note , \nNormal Update V2 you need to put version name to show update dialog in your user app but here in Upgraded Update V2 you need to put Version code instead of Version name  remember it.\n\n\n\nWatch Tutorial to understand more 🔥🔥",
     "isUpdateBasedDialog": true,
     "isOnlyForVIP_Preview": true,
-    "download_link": "vBKNnl7Y8gE5LewEzPHHjkDlSQeRDs1m79X33Tldz+vwUjaJ3xKcrKAVJ0YSIySXRw/QgUMkQ8qswP8jiPFqCSV2TDEdBQJum//8Hq9h4X7E+fLaJOzNKAZtBv2Ehujz",
+    "download_link": "EE8gmEBavaWoBmPrYV4MQfttWMo8lfVm4Uam/bal2pIFomH523JflTkZY/DGBJeMnwZ2ApLPLuUliWjAAhXK5lVJ84P1VQmtE17GknvwEtgwaw9GzuT65/5GYzn8+T6v",
     "category": "Update Dialogs",
     "ର_କି": "Default",
+    "ଜେସନ୍_କି": "Default",
     "asset_json_file_name": "No need For Update Based Dialog",
     "instructions_after_patch": "Please read all instructions that given in ReadME.txt file",
     "isDirectJsonCreationAvailable": true,
@@ -29,49 +30,49 @@
         "Dlg_Information": "Set dialog title",
         "Header": "Dialog header settings :",
         "User_Input": "",
-        "User_Input_Tag": "Dialog_Title",
+        "User_Input_Tag": "IXpfr9n357MgvH8Ij8rLug==",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set title color",
         "User_Input": "",
-        "User_Input_Tag": "Title_Color",
+        "User_Input_Tag": "FGj3rlA6YL2zNhCPXtcvUw==",
         "Is_Color_Input": true,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set dialog subtitle",
         "User_Input": "",
-        "User_Input_Tag": "Dialog_Subtitle",
+        "User_Input_Tag": "K8lSa3lDgnb9jPS2J9pKnQ==",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set dialog icon link",
         "User_Input": "",
-        "User_Input_Tag": "Icon_Link",
+        "User_Input_Tag": "a2ohWwZO5znM7PH86xiiQA==",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set message",
         "User_Input": "",
-        "User_Input_Tag": "Dialog_Message",
+        "User_Input_Tag": "fwL9eLpDOHkWcBv1CRyC3g==",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set message color",
         "User_Input": "",
-        "User_Input_Tag": "Message_Color",
+        "User_Input_Tag": "gGA+NbPr2zQQSzK53bg7lA==",
         "Is_Color_Input": true,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set submessage (Ex what's new)",
         "User_Input": "",
-        "User_Input_Tag": "Dialog_Submessage",
+        "User_Input_Tag": "K8lSa3lDgnZs5gCIMxeP/GK1ROLgyxip",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
@@ -79,7 +80,7 @@
         "Dlg_Information": "Is version Update ?",
         "Header": "Version Settings :",
         "User_Input": "true",
-        "User_Input_Tag": "Update_Type",
+        "User_Input_Tag": "xNrXo3aX+cjjLRUq26H3lw==",
         "Is_Color_Input": false,
         "isChoiceMode": true,
         "More_Info": "If you set version update \"yes\" then your Dialog will show when your input version(Server) is not equal to current version of user's installed app.. else\n\n if you set version update \"No\" then the dialog will show one time only ..",
@@ -93,7 +94,7 @@
         "User_Input": "",
         "More_Info": "Please enter version code.. not version name remember it ..Any confusion ask in group",
         "InputDigitOnly": "true",
-        "User_Input_Tag": "New_Version",
+        "User_Input_Tag": "i/RsvH7vT2W3NXLWZbIFNA==",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
@@ -101,28 +102,28 @@
         "Dlg_Information": "Set Download button text",
         "Header": "Download Button Settings :",
         "User_Input": "",
-        "User_Input_Tag": "Download_Button_Text",
+        "User_Input_Tag": "ymazUjoKWDs10SnPVialRo238gveCpww",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set Download button link",
         "User_Input": "",
-        "User_Input_Tag": "Download_Link",
+        "User_Input_Tag": "ymazUjoKWDsNnNii0mBUsQ==",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set Download button text color",
         "User_Input": "",
-        "User_Input_Tag": "Download_Button_Text_Color",
+        "User_Input_Tag": "ymazUjoKWDs10SnPVialRjkDoWoi4Uh2e071uUyPi3Q=",
         "Is_Color_Input": true,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set Download button background color",
         "User_Input": "",
-        "User_Input_Tag": "Download_Button_Background",
+        "User_Input_Tag": "ymazUjoKWDs10SnPVialRqpqB3rJj/WlE1IeeUkaUoQ=",
         "Is_Color_Input": true,
         "isChoiceMode": false
       },
@@ -130,7 +131,7 @@
         "Dlg_Information": "Cancel button visibility ?",
         "Header": "Cancel button settings : ",
         "User_Input": "VISIBLE",
-        "User_Input_Tag": "Cancel_Visibility",
+        "User_Input_Tag": "iEp/Ny2mSIsuKb7zJ1rMKyYhNbQnsCuV",
         "Is_Color_Input": false,
         "isChoiceMode": true,
         "More_Info": "If you set Cancel button visible then cancel button will show when you send user update... else if you set Invisible then cancel button will not show any more on User app.",
@@ -142,21 +143,21 @@
       {
         "Dlg_Information": "Set cancel button text",
         "User_Input": "",
-        "User_Input_Tag": "Cancel_Button_Text",
+        "User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5WTtKzeWLUd/",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set cancel button text color",
         "User_Input": "",
-        "User_Input_Tag": "Cancel_Button_Text_Color",
+        "User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5QSFPVslSgBYHPgDqRN5J2U=",
         "Is_Color_Input": true,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set cancel button background color",
         "User_Input": "",
-        "User_Input_Tag": "Cancel_Button_Background",
+        "User_Input_Tag": "MiWI3MxXkXj3L26fksPO7W6nPOY/7ultHPgDqRN5J2U=",
         "Is_Color_Input": true,
         "isChoiceMode": false
       }
@@ -167,9 +168,10 @@
     "dlg_about": "Everything same as old IOS Dialog but here is a fixed UI version..\n\nWatch video to understand.. how it is different from normal IOS Dialog 👍",
     "isUpdateBasedDialog": false,
     "isOnlyForVIP_Preview": true,
-    "download_link": "vBKNnl7Y8gE5LewEzPHHjkDlSQeRDs1m79X33Tldz+vwUjaJ3xKcrKAVJ0YSIySXRw/QgUMkQ8qswP8jiPFqCSV2TDEdBQJum//8Hq9h4X7E+fLaJOzNKAZtBv2Ehujz",
+    "download_link": "EE8gmEBavaWoBmPrYV4MQfttWMo8lfVm4Uam/bal2pIFomH523JflTkZY/DGBJeMnwZ2ApLPLuUliWjAAhXK5lVJ84P1VQmtE17GknvwEtgwaw9GzuT65/5GYzn8+T6v",
     "category": "Offline Dialogs",
     "ର_କି": "Default",
+    "ଜେସନ୍_କି": "Default",
     "asset_json_file_name": "File",
     "instructions_after_patch": "Please read all instructions that given in ReadME.txt file",
     "isDirectJsonCreationAvailable": true,
@@ -192,14 +194,14 @@
         "Dlg_Information": "Set dialog title",
         "Header": "Dialog header settings :",
         "User_Input": "",
-        "User_Input_Tag": "Dialog_Title",
+        "User_Input_Tag": "IXpfr9n357MgvH8Ij8rLug==",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set Dialog message",
         "User_Input": "",
-        "User_Input_Tag": "Dialog_Message",
+        "User_Input_Tag": "fwL9eLpDOHkWcBv1CRyC3g==",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
@@ -207,14 +209,14 @@
         "Dlg_Information": "Set visit button text",
         "Header": "Visit Button settings :",
         "User_Input": "",
-        "User_Input_Tag": "Visit_Button_Text",
+        "User_Input_Tag": "0djAXb2S3VFQkFaWiarkmnstc9LyLd7z",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
       {
         "Dlg_Information": "Set visit button link",
         "User_Input": "",
-        "User_Input_Tag": "Visit_Link",
+        "User_Input_Tag": "M1NjSKHh8FxfvafqEdROMA==",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
@@ -222,7 +224,7 @@
         "Dlg_Information": "Set cancel button text",
         "Header": "Cancel button settings :",
         "User_Input": "",
-        "User_Input_Tag": "Cancel_Button_Text",
+        "User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5WTtKzeWLUd/",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
@@ -231,7 +233,7 @@
         "Header": "More settings :",
         "User_Input": "",
         "InputDigitOnly": "true",
-        "User_Input_Tag": "Show_Time",
+        "User_Input_Tag": "ePSpXJfQMHlitUTi4MsYqQ==",
         "Is_Color_Input": false,
         "isChoiceMode": false
       }
