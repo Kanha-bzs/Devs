@@ -9,7 +9,7 @@
     "ର_କି": "Default",
     "ଜେସନ୍_କି": "Default",
     "asset_json_file_name": "No need For Update Based Dialog",
-    "instructions_after_patch": "Please read all instructions that given in ReadME.txt file",
+    "instructions_after_patch": "Please read all instructions that given in ReadME.smali file",
     "isDirectJsonCreationAvailable": true,
     "dlg_preview_data": [
       {
@@ -173,7 +173,7 @@
     "ର_କି": "Default",
     "ଜେସନ୍_କି": "Default",
     "asset_json_file_name": "File",
-    "instructions_after_patch": "Please read all instructions that given in ReadME.txt file",
+    "instructions_after_patch": "Please read all instructions that given in ReadME.smali file",
     "isDirectJsonCreationAvailable": true,
     "dlg_preview_data": [
       {
