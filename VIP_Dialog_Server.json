@@ -3,6 +3,7 @@
     "dlg_name": "Upgraded Update Dialog V2",
     "dlg_about": "Here everything is same as Update V2 but in update V2 you may face size error in dialog box in different different devices but here all the things were fixed and it will work fine in every device..Click preview then Tutorial to understand how to implement and how it looks in other devices.. Alright..\n\nBut please note , \nNormal Update V2 you need to put version name to show update dialog in your user app but here in Upgraded Update V2 you need to put Version code instead of Version name  remember it.\n\n\n\nWatch Tutorial to understand more 🔥🔥",
     "isUpdateBasedDialog": true,
+    "Preview_Not_Available": "Updating soon...",
     "isOnlyForVIP_Preview": true,
     "download_link": "EE8gmEBavaWoBmPrYV4MQfttWMo8lfVm4Uam/bal2pIFomH523JflTkZY/DGBJeMnwZ2ApLPLuUliWjAAhXK5lVJ84P1VQmtE17GknvwEtgwaw9GzuT65/5GYzn8+T6v",
     "category": "Update Dialogs",
@@ -160,83 +161,6 @@
         "User_Input": "",
         "User_Input_Tag": "MiWI3MxXkXj3L26fksPO7W6nPOY/7ultHPgDqRN5J2U=",
         "Is_Color_Input": true,
-        "isChoiceMode": false
-      }
-    ]
-  },
-  {
-    "dlg_name": "Upgraded IOS Dialog v1",
-    "dlg_about": "Everything same as old IOS Dialog but here is a fixed UI version..\n\nWatch video to understand.. how it is different from normal IOS Dialog 👍",
-    "isUpdateBasedDialog": false,
-    "isOnlyForVIP_Preview": true,
-    "download_link": "EE8gmEBavaWoBmPrYV4MQfttWMo8lfVm4Uam/bal2pIFomH523JflTkZY/DGBJeMnwZ2ApLPLuUliWjAAhXK5lVJ84P1VQmtE17GknvwEtgwaw9GzuT65/5GYzn8+T6v",
-    "category": "Offline Dialogs",
-    "ର_କି": "Default",
-    "ଜେସନ୍_କି": "Default",
-    "asset_json_file_name": "File",
-    "instructions_after_patch": "Please read all instructions that given in ReadME.smali file",
-    "isDirectJsonCreationAvailable": true,
-    "isDirectPatchingAvailable": false,
-    "dlg_preview_data": [
-      {
-        "Title": "Image Preview",
-        "ImageLink": "https://iili.io/JnUBhG4.jpg"
-      },
-      {
-        "Title": "YT Tutorial",
-        "ImageLink": "https://youtu.be/FZo5bXS4sas?si=YAMGKTblMpqGuB9R"
-      },
-      {
-        "Title": "Ask question in TG",
-        "ImageLink": "https://t.me/Modder_Hub/"
-      }
-    ],
-    "dlg_design_data_for_apply": [
-      {
-        "Dlg_Information": "Set dialog title",
-        "Header": "Dialog header settings :",
-        "User_Input": "",
-        "User_Input_Tag": "IXpfr9n357MgvH8Ij8rLug==",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set Dialog message",
-        "User_Input": "",
-        "User_Input_Tag": "fwL9eLpDOHkWcBv1CRyC3g==",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set visit button text",
-        "Header": "Visit Button settings :",
-        "User_Input": "",
-        "User_Input_Tag": "0djAXb2S3VFQkFaWiarkmnstc9LyLd7z",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set visit button link",
-        "User_Input": "",
-        "User_Input_Tag": "M1NjSKHh8FxfvafqEdROMA==",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set cancel button text",
-        "Header": "Cancel button settings :",
-        "User_Input": "",
-        "User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5WTtKzeWLUd/",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set show time",
-        "Header": "More settings :",
-        "User_Input": "",
-        "InputDigitOnly": "true",
-        "User_Input_Tag": "ePSpXJfQMHlitUTi4MsYqQ==",
-        "Is_Color_Input": false,
         "isChoiceMode": false
       }
     ]
