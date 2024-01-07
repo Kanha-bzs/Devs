@@ -1,167 +1,167 @@
 [
-  {
-    "dlg_name": "Upgraded Update Dialog V2",
-    "dlg_about": "Here everything is same as Update V2 but in update V2 you may face size error in dialog box in different different devices but here all the things were fixed and it will work fine in every device..Click preview then Tutorial to understand how to implement and how it looks in other devices.. Alright..\n\nBut please note , \nNormal Update V2 you need to put version name to show update dialog in your user app but here in Upgraded Update V2 you need to put Version code instead of Version name  remember it.\n\n\n\nWatch Tutorial to understand more 🔥🔥",
-    "Preview_Not_Available": "Updating soon...",
-    "isOnlyForVIP_Preview": true,
-    "download_link": "EE8gmEBavaWoBmPrYV4MQfttWMo8lfVm4Uam/bal2pIFomH523JflTkZY/DGBJeMnwZ2ApLPLuUliWjAAhXK5lVJ84P1VQmtE17GknvwEtgwaw9GzuT65/5GYzn8+T6v",
-    "category": "Update Dialogs",
-    "ର_କି": "Default",
-    "ଜେସନ୍_କି": "Default",
-    "asset_json_file_name": null,
-    "instructions_after_patch": "Please read all instructions that given in ReadME.smali file\n\nIf you want to patch apk directly then simply click Apk Patch",
-    "isDirectJsonCreationAvailable": true,
-    "isDirectPatchingAvailable": true,
-    "dlg_preview_data": [
-      {
-        "Title": "Image Preview",
-        "ImageLink": "https://i.ibb.co/jHnSyHF/image.jpg"
-      },
-      {
-        "Title": "YT Tutorial(Manually Patching Using MT)",
-        "ImageLink": "https://youtu.be/hfeCF9PaUS0?si=QWHcAOjNbOYC8SBX"
-      },
-      {
-        "Title": "Ask question in TG",
-        "ImageLink": "https://t.me/Modder_Hub/"
-      }
-    ],
-    "dlg_design_data_for_apply": [
-      {
-        "Dlg_Information": "Set dialog title",
-        "Header": "Dialog header settings :",
-        "User_Input": "",
-        "User_Input_Tag": "IXpfr9n357MgvH8Ij8rLug==",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set title color",
-        "User_Input": "",
-        "User_Input_Tag": "FGj3rlA6YL2zNhCPXtcvUw==",
-        "Is_Color_Input": true,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set dialog subtitle",
-        "User_Input": "",
-        "User_Input_Tag": "K8lSa3lDgnb9jPS2J9pKnQ==",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set dialog icon link",
-        "User_Input": "",
-        "User_Input_Tag": "a2ohWwZO5znM7PH86xiiQA==",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set message",
-        "User_Input": "",
-        "User_Input_Tag": "fwL9eLpDOHkWcBv1CRyC3g==",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set message color",
-        "User_Input": "",
-        "User_Input_Tag": "gGA+NbPr2zQQSzK53bg7lA==",
-        "Is_Color_Input": true,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set submessage (Ex what's new)",
-        "User_Input": "",
-        "User_Input_Tag": "K8lSa3lDgnZs5gCIMxeP/GK1ROLgyxip",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Is version Update ?",
-        "Header": "Version Settings :",
-        "User_Input": "true",
-        "User_Input_Tag": "xNrXo3aX+cjjLRUq26H3lw==",
-        "Is_Color_Input": false,
-        "isChoiceMode": true,
-        "More_Info": "If you set version update \"yes\" then your Dialog will show when your input version(Server) is not equal to current version of user's installed app.. else\n\n if you set version update \"No\" then the dialog will show one time only ..",
-        "radioBtn1_txt": "true",
-        "radioBtn1_info": "As you have turned on the Version mode update you should enter version code below 👇",
-        "radioBtn2_txt": "false",
-        "radioBtn2_info": "As you turned off the version mode.. now user can see only one time the Update Dialog.. If you again Update then user will show again that dialog 👍\n\nIn version code place add any Random number but don't leave it blank alright 👍"
-      },
-      {
-        "Dlg_Information": "Set new version code",
-        "User_Input": "",
-        "More_Info": "Please enter version code.. not version name remember it ..Any confusion ask in group",
-        "InputDigitOnly": "true",
-        "User_Input_Tag": "i/RsvH7vT2W3NXLWZbIFNA==",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set Download button text",
-        "Header": "Download Button Settings :",
-        "User_Input": "",
-        "User_Input_Tag": "ymazUjoKWDs10SnPVialRo238gveCpww",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set Download button link",
-        "User_Input": "",
-        "User_Input_Tag": "ymazUjoKWDsNnNii0mBUsQ==",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set Download button text color",
-        "User_Input": "",
-        "User_Input_Tag": "ymazUjoKWDs10SnPVialRjkDoWoi4Uh2e071uUyPi3Q=",
-        "Is_Color_Input": true,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set Download button background color",
-        "User_Input": "",
-        "User_Input_Tag": "ymazUjoKWDs10SnPVialRqpqB3rJj/WlE1IeeUkaUoQ=",
-        "Is_Color_Input": true,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Cancel button visibility ?",
-        "Header": "Cancel button settings : ",
-        "User_Input": "VISIBLE",
-        "User_Input_Tag": "iEp/Ny2mSIsuKb7zJ1rMKyYhNbQnsCuV",
-        "Is_Color_Input": false,
-        "isChoiceMode": true,
-        "More_Info": "If you set Cancel button visible then cancel button will show when you send user update... else if you set Invisible then cancel button will not show any more on User app.",
-        "radioBtn1_txt": "VISIBLE",
-        "radioBtn1_info": "Please add Everything in cancel button details.. Because you enable it..👍",
-        "radioBtn2_txt": "INVISIBLE",
-        "radioBtn2_info": "Now you have disable it.. so you can fill anything in below cancel button design.. but please input something to generate your encryted json.. remember it 👍"
-      },
-      {
-        "Dlg_Information": "Set cancel button text",
-        "User_Input": "",
-        "User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5WTtKzeWLUd/",
-        "Is_Color_Input": false,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set cancel button text color",
-        "User_Input": "",
-        "User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5QSFPVslSgBYHPgDqRN5J2U=",
-        "Is_Color_Input": true,
-        "isChoiceMode": false
-      },
-      {
-        "Dlg_Information": "Set cancel button background color",
-        "User_Input": "",
-        "User_Input_Tag": "MiWI3MxXkXj3L26fksPO7W6nPOY/7ultHPgDqRN5J2U=",
-        "Is_Color_Input": true,
-        "isChoiceMode": false
-      }
-    ]
-  }
+	{
+		"dlg_name": "Upgraded Update Dialog V2",
+		"dlg_about": "Here everything is same as Update V2 but in update V2 you may face size error in dialog box in different different devices but here all the things were fixed and it will work fine in every device..Click preview then Tutorial to understand how to implement and how it looks in other devices.. Alright..\n\nBut please note , \nNormal Update V2 you need to put version name to show update dialog in your user app but here in Upgraded Update V2 you need to put Version code instead of Version name  remember it.\n\n\n\nWatch Tutorial to understand more 🔥🔥",
+		"isUpdateBasedDialog": true,
+		"isOnlyForVIP_Preview": true,
+		"download_link": "EE8gmEBavaWoBmPrYV4MQfttWMo8lfVm4Uam/bal2pIFomH523JflTkZY/DGBJeMnwZ2ApLPLuUliWjAAhXK5lVJ84P1VQmtE17GknvwEtgwaw9GzuT65/5GYzn8+T6v",
+		"category": "Update Dialogs",
+		"ର_କି": "Default",
+		"ଜେସନ୍_କି": "Default",
+		"asset_json_file_name": null,
+		"instructions_after_patch": "Please read all instructions that given in ReadME.smali file\n\nIf you want to patch apk directly then simply click Apk Patch",
+		"isDirectJsonCreationAvailable": true,
+		"isDirectPatchingAvailable": true,
+		"dlg_preview_data": [
+			{
+				"Title": "Image Preview",
+				"ImageLink": "https://i.ibb.co/jHnSyHF/image.jpg"
+			},
+			{
+				"Title": "YT Tutorial(Manually Patching Using MT)",
+				"ImageLink": "https://youtu.be/hfeCF9PaUS0?si=QWHcAOjNbOYC8SBX"
+			},
+			{
+				"Title": "Ask question in TG",
+				"ImageLink": "https://t.me/Modder_Hub/"
+			}
+		],
+		"dlg_design_data_for_apply": [
+			{
+				"Dlg_Information": "Set dialog title",
+				"Header": "Dialog header settings :",
+				"User_Input": "",
+				"User_Input_Tag": "IXpfr9n357MgvH8Ij8rLug==",
+				"Is_Color_Input": false,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Set title color",
+				"User_Input": "",
+				"User_Input_Tag": "FGj3rlA6YL2zNhCPXtcvUw==",
+				"Is_Color_Input": true,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Set dialog subtitle",
+				"User_Input": "",
+				"User_Input_Tag": "K8lSa3lDgnb9jPS2J9pKnQ==",
+				"Is_Color_Input": false,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Set dialog icon link",
+				"User_Input": "",
+				"User_Input_Tag": "a2ohWwZO5znM7PH86xiiQA==",
+				"Is_Color_Input": false,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Set message",
+				"User_Input": "",
+				"User_Input_Tag": "fwL9eLpDOHkWcBv1CRyC3g==",
+				"Is_Color_Input": false,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Set message color",
+				"User_Input": "",
+				"User_Input_Tag": "gGA+NbPr2zQQSzK53bg7lA==",
+				"Is_Color_Input": true,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Set submessage (Ex what's new)",
+				"User_Input": "",
+				"User_Input_Tag": "K8lSa3lDgnZs5gCIMxeP/GK1ROLgyxip",
+				"Is_Color_Input": false,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Is version Update ?",
+				"Header": "Version Settings :",
+				"User_Input": "true",
+				"User_Input_Tag": "xNrXo3aX+cjjLRUq26H3lw==",
+				"Is_Color_Input": false,
+				"isChoiceMode": true,
+				"More_Info": "If you set version update \"yes\" then your Dialog will show when your input version(Server) is not equal to current version of user's installed app.. else\n\n if you set version update \"No\" then the dialog will show one time only ..",
+				"radioBtn1_txt": "true",
+				"radioBtn1_info": "As you have turned on the Version mode update you should enter version code below 👇",
+				"radioBtn2_txt": "false",
+				"radioBtn2_info": "As you turned off the version mode.. now user can see only one time the Update Dialog.. If you again Update then user will show again that dialog 👍\n\nIn version code place add any Random number but don't leave it blank alright 👍"
+			},
+			{
+				"Dlg_Information": "Set new version code",
+				"User_Input": "",
+				"More_Info": "Please enter version code.. not version name remember it ..Any confusion ask in group",
+				"InputDigitOnly": "true",
+				"User_Input_Tag": "i/RsvH7vT2W3NXLWZbIFNA==",
+				"Is_Color_Input": false,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Set Download button text",
+				"Header": "Download Button Settings :",
+				"User_Input": "",
+				"User_Input_Tag": "ymazUjoKWDs10SnPVialRo238gveCpww",
+				"Is_Color_Input": false,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Set Download button link",
+				"User_Input": "",
+				"User_Input_Tag": "ymazUjoKWDsNnNii0mBUsQ==",
+				"Is_Color_Input": false,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Set Download button text color",
+				"User_Input": "",
+				"User_Input_Tag": "ymazUjoKWDs10SnPVialRjkDoWoi4Uh2e071uUyPi3Q=",
+				"Is_Color_Input": true,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Set Download button background color",
+				"User_Input": "",
+				"User_Input_Tag": "ymazUjoKWDs10SnPVialRqpqB3rJj/WlE1IeeUkaUoQ=",
+				"Is_Color_Input": true,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Cancel button visibility ?",
+				"Header": "Cancel button settings : ",
+				"User_Input": "VISIBLE",
+				"User_Input_Tag": "iEp/Ny2mSIsuKb7zJ1rMKyYhNbQnsCuV",
+				"Is_Color_Input": false,
+				"isChoiceMode": true,
+				"More_Info": "If you set Cancel button visible then cancel button will show when you send user update... else if you set Invisible then cancel button will not show any more on User app.",
+				"radioBtn1_txt": "VISIBLE",
+				"radioBtn1_info": "Please add Everything in cancel button details.. Because you enable it..👍",
+				"radioBtn2_txt": "INVISIBLE",
+				"radioBtn2_info": "Now you have disable it.. so you can fill anything in below cancel button design.. but please input something to generate your encryted json.. remember it 👍"
+			},
+			{
+				"Dlg_Information": "Set cancel button text",
+				"User_Input": "",
+				"User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5WTtKzeWLUd/",
+				"Is_Color_Input": false,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Set cancel button text color",
+				"User_Input": "",
+				"User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5QSFPVslSgBYHPgDqRN5J2U=",
+				"Is_Color_Input": true,
+				"isChoiceMode": false
+			},
+			{
+				"Dlg_Information": "Set cancel button background color",
+				"User_Input": "",
+				"User_Input_Tag": "MiWI3MxXkXj3L26fksPO7W6nPOY/7ultHPgDqRN5J2U=",
+				"Is_Color_Input": true,
+				"isChoiceMode": false
+			}
+		]
+	}
 ]
