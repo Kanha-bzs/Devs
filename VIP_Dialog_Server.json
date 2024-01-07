@@ -2,7 +2,6 @@
   {
     "dlg_name": "Upgraded Update Dialog V2",
     "dlg_about": "Here everything is same as Update V2 but in update V2 you may face size error in dialog box in different different devices but here all the things were fixed and it will work fine in every device..Click preview then Tutorial to understand how to implement and how it looks in other devices.. Alright..\n\nBut please note , \nNormal Update V2 you need to put version name to show update dialog in your user app but here in Upgraded Update V2 you need to put Version code instead of Version name  remember it.\n\n\n\nWatch Tutorial to understand more 🔥🔥",
-    "isUpdateBasedDialog": true,
     "Preview_Not_Available": "Updating soon...",
     "isOnlyForVIP_Preview": true,
     "download_link": "EE8gmEBavaWoBmPrYV4MQfttWMo8lfVm4Uam/bal2pIFomH523JflTkZY/DGBJeMnwZ2ApLPLuUliWjAAhXK5lVJ84P1VQmtE17GknvwEtgwaw9GzuT65/5GYzn8+T6v",
