@@ -1,8 +1,8 @@
 { 
- "Header_Rate" : "$4.50 or ₹210.00",
- "Price_In_USD" : "4.50",
+ "Header_Rate" : "$5.00 or ₹250.00",
+ "Price_In_USD" : "5.00",
  "PayPal_Link" : "https://paypal.me/daynidhimaharna/",
- "Price_In_Rupee" : "210",
+ "Price_In_Rupee" : "250",
  "UPI_ID" : "k-maharna@paytm"
 
 }
