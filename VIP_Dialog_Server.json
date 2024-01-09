@@ -348,6 +348,10 @@
         "ImageLink": "https://i.ibb.co/8dG1x84/image.jpg"
       },
       {
+        "Title": "Dialog Explanation",
+        "ImageLink": "https://i.ibb.co/9rMDy0q/image.jpg"
+      },
+      {
         "Title": "Ask question in TG",
         "ImageLink": "https://t.me/Modder_Hub/"
       }
@@ -415,11 +419,15 @@
     "asset_json_file_name": "D",
     "instructions_after_patch": "Please read the instructions given in the ReadME.smali file.",
     "isDirectJsonCreationAvailable": true,
-    "isDirectPatchingAvailable": false,
+    "isDirectPatchingAvailable": true,
     "dlg_preview_data": [
       {
         "Title": "Image Preview",
         "ImageLink": "https://i.ibb.co/HHFPwYQ/image.jpg"
+      },
+      {
+        "Title": "Dialog Explainion",
+        "ImageLink": "https://i.ibb.co/LCmfzXy/image.jpg"
       },
       {
         "Title": "Ask question in TG",
