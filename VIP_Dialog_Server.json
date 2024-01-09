@@ -341,7 +341,7 @@
     "asset_json_file_name": "D",
     "instructions_after_patch": "Please read the instructions given in the ReadME.smali file.",
     "isDirectJsonCreationAvailable": true,
-    "isDirectPatchingAvailable": false,
+    "isDirectPatchingAvailable": true,
     "dlg_preview_data": [
       {
         "Title": "Image Preview",
@@ -416,7 +416,7 @@
     "category": "Offline Dialogs",
     "ର_କି": "Default",
     "ଜେସନ୍_କି": "Default",
-    "asset_json_file_name": "D",
+    "asset_json_file_name": "E",
     "instructions_after_patch": "Please read the instructions given in the ReadME.smali file.",
     "isDirectJsonCreationAvailable": true,
     "isDirectPatchingAvailable": true,
