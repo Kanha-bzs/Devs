@@ -1,7 +1,7 @@
 [
   {
     "dlg_name": "Upgraded Update Dialog V2",
-    "dlg_about": "Everything remains consistent with Update V2, but potential size errors in the dialog box on various devices have been resolved in the upgraded version. It ensures smooth functionality across all devices. Click preview, then access the tutorial to comprehend implementation and visualize how it appears on diverse devices. \n\nPlease note: In the enhanced Update V2, instead of using the version name, you must now use the version code to display the update dialog in your user app. \n\nWatch the tutorial for a more in-depth understanding. 🔥🔥\n\n\n𝗛𝗶𝘀𝘁𝗼𝗿𝘆 :\n\n12-01-2024 (Latest)\n* Fixed auto closing while clicking outside Dialog\n* Fixed run time crash issue\n\n07-01-2024 \n* Initial release",
+    "dlg_about": "Everything remains consistent with Update V2, but potential size errors in the dialog box on various devices have been resolved in the upgraded version. It ensures smooth functionality across all devices. Click preview, then access the tutorial to comprehend implementation and visualize how it appears on diverse devices. \n\nPlease note: In the enhanced Update V2, instead of using the version name, you must now use the version code to display the update dialog in your user app. \n\nWatch the tutorial for a more in-depth understanding. 🔥🔥\n\n\n𝗛𝗶𝘀𝘁𝗼𝗿𝘆 :\n\n12-01-2024 (Latest)\n* Fixed auto-closing when clicking outside the Dialog\n* Fixed run time crash issue\n\n07-01-2024 \n* Initial release",
     "isUpdateBasedDialog": true,
     "isOnlyForVIP_Preview": true,
     "download_link": "EE8gmEBavaWoBmPrYV4MQfttWMo8lfVm4Uam/bal2pIFomH523JflTkZY/DGBJeMnwZ2ApLPLuUliWjAAhXK5lVJ84P1VQmtE17GknvwEtgwaw9GzuT65/5GYzn8+T6v",
