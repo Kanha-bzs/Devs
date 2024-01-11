@@ -1,7 +1,7 @@
 [
   {
     "dlg_name": "Upgraded Update Dialog V2",
-    "dlg_about": "Everything remains consistent with Update V2, but potential size errors in the dialog box on various devices have been resolved in the upgraded version. It ensures smooth functionality across all devices. Click preview, then access the tutorial to comprehend implementation and visualize how it appears on diverse devices. \n\nPlease note: In the enhanced Update V2, instead of using the version name, you must now use the version code to display the update dialog in your user app. \n\nWatch the tutorial for a more in-depth understanding. 🔥🔥",
+    "dlg_about": "Everything remains consistent with Update V2, but potential size errors in the dialog box on various devices have been resolved in the upgraded version. It ensures smooth functionality across all devices. Click preview, then access the tutorial to comprehend implementation and visualize how it appears on diverse devices. \n\nPlease note: In the enhanced Update V2, instead of using the version name, you must now use the version code to display the update dialog in your user app. \n\nWatch the tutorial for a more in-depth understanding. 🔥🔥\n\n\n𝗛𝗶𝘀𝘁𝗼𝗿𝘆 :\n\n12-01-2024 (Latest)\n* Fixed auto closing while clicking outside Dialog\n* Fixed run time crash issue\n\n07-01-2024 \n* Initial release",
     "isUpdateBasedDialog": true,
     "isOnlyForVIP_Preview": true,
     "download_link": "EE8gmEBavaWoBmPrYV4MQfttWMo8lfVm4Uam/bal2pIFomH523JflTkZY/DGBJeMnwZ2ApLPLuUliWjAAhXK5lVJ84P1VQmtE17GknvwEtgwaw9GzuT65/5GYzn8+T6v",
@@ -166,7 +166,7 @@
   },
   {
     "dlg_name": "Update Dialog V2(BottomSheet)",
-    "dlg_about": "Everything remains consistent with the Upgraded Update V2, but in this version, the dialog will appear at the bottom part of the device display, known as the Bottom Sheet Dialog. The video content is the same as in the Upgraded Update V2 (Normal).\n\nDirect patching is available for your convenience.",
+    "dlg_about": "Everything remains consistent with the Upgraded Update V2, but in this version, the dialog will appear at the bottom part of the device display, known as the Bottom Sheet Dialog. The video content is the same as in the Upgraded Update V2 (Normal).\n\nDirect patching is available for your convenience.\n\n\n\n𝗛𝗶𝘀𝘁𝗼𝗿𝘆 :\n\n08-01-2024 (Latest)\n* Initial release",
     "isUpdateBasedDialog": true,
     "isOnlyForVIP_Preview": true,
     "download_link": "EE8gmEBavaWoBmPrYV4MQfttWMo8lfVm4Uam/bal2pIFomH523JflTkZY/DGBJeMnwZ2ApLPLuUliWjAAhXK5lVJ84P1VQmtE17GknvwEthxCeYUtqEtYsj4HgnAE1+ujxRkjnkVtUA=",
@@ -331,7 +331,7 @@
   },
   {
     "dlg_name": "Upgraded IOS Dialogv1",
-    "dlg_about": "Improved iOS Dialog with fixed UI issues and a new feature allowing you to display the dialog at specified time intervals. For example, setting it to \"2\" means the dialog appears every 2 minutes, and for \"5,\" it shows up every 5 minutes.\n\n⚠️ Exercise caution with short intervals, as it's a random process and may impact user experience. Consider using longer intervals like 60 or 120 minutes. Watch the video for a detailed understanding of how this differs from the standard iOS Dialog. 👍",
+    "dlg_about": "Improved iOS Dialog with fixed UI issues and a new feature allowing you to display the dialog at specified time intervals. For example, setting it to \"2\" means the dialog appears every 2 minutes, and for \"5,\" it shows up every 5 minutes.\n\n⚠️ Exercise caution with short intervals, as it's a random process and may impact user experience. Consider using longer intervals like 60 or 120 minutes. Watch the video for a detailed understanding of how this differs from the standard iOS Dialog. 👍\n\n\n\n𝗛𝗶𝘀𝘁𝗼𝗿𝘆 :\n\n09-01-2024 (Latest)\n* Initial release",
     "isUpdateBasedDialog": false,
     "isOnlyForVIP_Preview": true,
     "download_link": "EE8gmEBavaWoBmPrYV4MQfttWMo8lfVm4Uam/bal2pIFomH523JflTkZY/DGBJeMnwZ2ApLPLuUliWjAAhXK5mGwHBIDUWtzffGFoGKh+3wm2MnVs8XTXg==",
@@ -409,7 +409,7 @@
   },
   {
     "dlg_name": "Upgraded IOS Dialogv2",
-    "dlg_about": "Improved iOS Dialog with fixed UI issues and a new feature allowing you to display the dialog at specified time intervals. For example, setting it to \"2\" means the dialog appears every 2 minutes, and for \"5,\" it shows up every 5 minutes.\n\n⚠️ Exercise caution with short intervals, as it's a random process and may impact user experience. Consider using longer intervals like 60 or 120 minutes. Watch the video for a detailed understanding of how this differs from the standard iOS Dialog. 👍",
+    "dlg_about": "Improved iOS Dialog with fixed UI issues and a new feature allowing you to display the dialog at specified time intervals. For example, setting it to \"2\" means the dialog appears every 2 minutes, and for \"5,\" it shows up every 5 minutes.\n\n⚠️ Exercise caution with short intervals, as it's a random process and may impact user experience. Consider using longer intervals like 60 or 120 minutes. Watch the video for a detailed understanding of how this differs from the standard iOS Dialog. 👍\n\n\n\n𝗛𝗶𝘀𝘁𝗼𝗿𝘆 :\n\n09-01-2024 (Latest)\n* Initial release",
     "isUpdateBasedDialog": false,
     "isOnlyForVIP_Preview": true,
     "download_link": "EE8gmEBavaWoBmPrYV4MQfttWMo8lfVm4Uam/bal2pIFomH523JflTkZY/DGBJeMnwZ2ApLPLuUliWjAAhXK5mGwHBIDUWtz182lSmsRp6sm2MnVs8XTXg==",
