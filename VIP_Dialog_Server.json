@@ -1,7 +1,7 @@
 [
   {
     "dlg_name": "Upgraded Update Dialog V2",
-    "dlg_about": "Everything remains consistent with Update V2, but potential size errors in the dialog box on various devices have been resolved in the upgraded version. It ensures smooth functionality across all devices. Click preview, then access the tutorial to comprehend implementation and visualize how it appears on diverse devices. \n\nPlease note: In the enhanced Update V2, instead of using the version name, you must now use the version code to display the update dialog in your user app. \n\nWatch the tutorial for a more in-depth understanding. 🔥🔥\n\n\n𝗛𝗶𝘀𝘁𝗼𝗿𝘆 :\n\n12-01-2024 (Latest)\n* Fixed auto-closing when clicking outside the Dialog\n* Fixed run time crash issue\n\n07-01-2024 \n* Initial release",
+    "dlg_about": "Everything remains consistent with Update V2, but potential size errors in the dialog box on various devices have been resolved in the upgraded version. It ensures smooth functionality across all devices. Click preview, then access the tutorial to comprehend implementation and visualize how it appears on diverse devices. \n\nPlease note: In the enhanced Update V2, instead of using the version name, you must now use the version code to display the update dialog in your user app. \n\nWatch the tutorial for a more in-depth understanding. 🔥🔥\n\n\n𝗛𝗶𝘀𝘁𝗼𝗿𝘆 :\n\n12-01-2024 (Latest)\n* Fixed auto closing while clicking outside Dialog\n* Fixed run time crash issue\n\n07-01-2024 \n* Initial release",
     "isUpdateBasedDialog": true,
     "isOnlyForVIP_Preview": true,
     "download_link": "EE8gmEBavaWoBmPrYV4MQfttWMo8lfVm4Uam/bal2pIFomH523JflTkZY/DGBJeMnwZ2ApLPLuUliWjAAhXK5lVJ84P1VQmtE17GknvwEtgwaw9GzuT65/5GYzn8+T6v",
@@ -32,6 +32,7 @@
         "Header": "Dialog header settings :",
         "User_Input": "",
         "User_Input_Tag": "IXpfr9n357MgvH8Ij8rLug==",
+        "singleLine": "true",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
@@ -39,6 +40,7 @@
         "Dlg_Information": "Set title color",
         "User_Input": "",
         "User_Input_Tag": "FGj3rlA6YL2zNhCPXtcvUw==",
+        "singleLine": "true",
         "Is_Color_Input": true,
         "isChoiceMode": false
       },
@@ -46,6 +48,7 @@
         "Dlg_Information": "Set dialog subtitle",
         "User_Input": "",
         "User_Input_Tag": "K8lSa3lDgnb9jPS2J9pKnQ==",
+        "singleLine": "true",
         "Is_Color_Input": false,
         "isChoiceMode": false
       },
@@ -54,7 +57,9 @@
         "User_Input": "",
         "User_Input_Tag": "a2ohWwZO5znM7PH86xiiQA==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true",
+        "pasteBoard": "true"
       },
       {
         "Dlg_Information": "Set message",
@@ -68,14 +73,16 @@
         "User_Input": "",
         "User_Input_Tag": "gGA+NbPr2zQQSzK53bg7lA==",
         "Is_Color_Input": true,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set submessage (Ex what's new)",
         "User_Input": "",
         "User_Input_Tag": "K8lSa3lDgnZs5gCIMxeP/GK1ROLgyxip",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Is version Update ?",
@@ -88,7 +95,8 @@
         "radioBtn1_txt": "true",
         "radioBtn1_info": "As you have turned on the Version mode update you should enter version code below 👇",
         "radioBtn2_txt": "false",
-        "radioBtn2_info": "As you turned off the version mode.. now user can see only one time the Update Dialog.. If you again Update then user will show again that dialog 👍\n\nIn version code place add any Random number but don't leave it blank alright 👍"
+        "radioBtn2_info": "As you turned off the version mode.. now user can see only one time the Update Dialog.. If you again Update then user will show again that dialog 👍\n\nIn version code place add any Random number but don't leave it blank alright 👍",
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set new version code",
@@ -97,7 +105,8 @@
         "InputDigitOnly": "true",
         "User_Input_Tag": "i/RsvH7vT2W3NXLWZbIFNA==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set Download button text",
@@ -105,28 +114,33 @@
         "User_Input": "",
         "User_Input_Tag": "ymazUjoKWDs10SnPVialRo238gveCpww",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set Download button link",
         "User_Input": "",
         "User_Input_Tag": "ymazUjoKWDsNnNii0mBUsQ==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true",
+        "pasteBoard": "true"
       },
       {
         "Dlg_Information": "Set Download button text color",
         "User_Input": "",
         "User_Input_Tag": "ymazUjoKWDs10SnPVialRjkDoWoi4Uh2e071uUyPi3Q=",
         "Is_Color_Input": true,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set Download button background color",
         "User_Input": "",
         "User_Input_Tag": "ymazUjoKWDs10SnPVialRqpqB3rJj/WlE1IeeUkaUoQ=",
         "Is_Color_Input": true,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Cancel button visibility ?",
@@ -139,28 +153,32 @@
         "radioBtn1_txt": "VISIBLE",
         "radioBtn1_info": "Please add Everything in cancel button details.. Because you enable it..👍",
         "radioBtn2_txt": "INVISIBLE",
-        "radioBtn2_info": "Now you have disable it.. so you can fill anything in below cancel button design.. but please input something to generate your encryted json.. remember it 👍"
+        "radioBtn2_info": "Now you have disable it.. so you can fill anything in below cancel button design.. but please input something to generate your encryted json.. remember it 👍",
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set cancel button text",
         "User_Input": "",
         "User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5WTtKzeWLUd/",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set cancel button text color",
         "User_Input": "",
         "User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5QSFPVslSgBYHPgDqRN5J2U=",
         "Is_Color_Input": true,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set cancel button background color",
         "User_Input": "",
         "User_Input_Tag": "MiWI3MxXkXj3L26fksPO7W6nPOY/7ultHPgDqRN5J2U=",
         "Is_Color_Input": true,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       }
     ]
   },
@@ -198,49 +216,57 @@
         "User_Input": "",
         "User_Input_Tag": "IXpfr9n357MgvH8Ij8rLug==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set title color",
         "User_Input": "",
         "User_Input_Tag": "FGj3rlA6YL2zNhCPXtcvUw==",
         "Is_Color_Input": true,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set dialog subtitle",
         "User_Input": "",
         "User_Input_Tag": "K8lSa3lDgnb9jPS2J9pKnQ==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set dialog icon link",
         "User_Input": "",
         "User_Input_Tag": "a2ohWwZO5znM7PH86xiiQA==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true",
+        "pasteBoard": "true"
       },
       {
         "Dlg_Information": "Set message",
         "User_Input": "",
         "User_Input_Tag": "fwL9eLpDOHkWcBv1CRyC3g==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set message color",
         "User_Input": "",
         "User_Input_Tag": "gGA+NbPr2zQQSzK53bg7lA==",
         "Is_Color_Input": true,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set submessage (Ex what's new)",
         "User_Input": "",
         "User_Input_Tag": "K8lSa3lDgnZs5gCIMxeP/GK1ROLgyxip",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Is version Update ?",
@@ -253,7 +279,8 @@
         "radioBtn1_txt": "true",
         "radioBtn1_info": "As you have turned on the Version mode update you should enter version code below 👇",
         "radioBtn2_txt": "false",
-        "radioBtn2_info": "As you turned off the version mode.. now user can see only one time the Update Dialog.. If you again Update then user will show again that dialog 👍\n\nIn version code place add any Random number but don't leave it blank alright 👍"
+        "radioBtn2_info": "As you turned off the version mode.. now user can see only one time the Update Dialog.. If you again Update then user will show again that dialog 👍\n\nIn version code place add any Random number but don't leave it blank alright 👍",
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set new version code",
@@ -262,7 +289,8 @@
         "InputDigitOnly": "true",
         "User_Input_Tag": "i/RsvH7vT2W3NXLWZbIFNA==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set Download button text",
@@ -270,28 +298,33 @@
         "User_Input": "",
         "User_Input_Tag": "ymazUjoKWDs10SnPVialRo238gveCpww",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set Download button link",
         "User_Input": "",
         "User_Input_Tag": "ymazUjoKWDsNnNii0mBUsQ==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true",
+        "pasteBoard": "true"
       },
       {
         "Dlg_Information": "Set Download button text color",
         "User_Input": "",
         "User_Input_Tag": "ymazUjoKWDs10SnPVialRjkDoWoi4Uh2e071uUyPi3Q=",
         "Is_Color_Input": true,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set Download button background color",
         "User_Input": "",
         "User_Input_Tag": "ymazUjoKWDs10SnPVialRqpqB3rJj/WlE1IeeUkaUoQ=",
         "Is_Color_Input": true,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Cancel button visibility ?",
@@ -304,28 +337,32 @@
         "radioBtn1_txt": "VISIBLE",
         "radioBtn1_info": "Please add Everything in cancel button details.. Because you enable it..👍",
         "radioBtn2_txt": "INVISIBLE",
-        "radioBtn2_info": "Now you have disable it.. so you can fill anything in below cancel button design.. but please input something to generate your encryted json.. remember it 👍"
+        "radioBtn2_info": "Now you have disable it.. so you can fill anything in below cancel button design.. but please input something to generate your encryted json.. remember it 👍",
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set cancel button text",
         "User_Input": "",
         "User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5WTtKzeWLUd/",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set cancel button text color",
         "User_Input": "",
         "User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5QSFPVslSgBYHPgDqRN5J2U=",
         "Is_Color_Input": true,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set cancel button background color",
         "User_Input": "",
         "User_Input_Tag": "MiWI3MxXkXj3L26fksPO7W6nPOY/7ultHPgDqRN5J2U=",
         "Is_Color_Input": true,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       }
     ]
   },
@@ -363,14 +400,16 @@
         "User_Input": "",
         "User_Input_Tag": "TGJyW2tHp+M=",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set Dialog message",
         "User_Input": "",
         "User_Input_Tag": "SPHtYjuNE3s=",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set positive button text",
@@ -378,14 +417,17 @@
         "User_Input": "",
         "User_Input_Tag": "xZGH6coIJoSNt/IL3gqcMA==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set positive button link",
         "User_Input": "",
         "User_Input_Tag": "QYctXwOC96A=",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true",
+        "pasteBoard": "true"
       },
       {
         "Dlg_Information": "Set negative button text",
@@ -393,7 +435,8 @@
         "User_Input": "",
         "User_Input_Tag": "d/VdbKiwlbONt/IL3gqcMA==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set show time",
@@ -403,7 +446,8 @@
         "InputDigitOnly": "true",
         "User_Input_Tag": "ePSpXJfQMHlitUTi4MsYqQ==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       }
     ]
   },
@@ -441,14 +485,16 @@
         "User_Input": "",
         "User_Input_Tag": "TGJyW2tHp+M=",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set Dialog message",
         "User_Input": "",
         "User_Input_Tag": "SPHtYjuNE3s=",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set positive button text",
@@ -456,14 +502,17 @@
         "User_Input": "",
         "User_Input_Tag": "xZGH6coIJoSNt/IL3gqcMA==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set positive button link",
         "User_Input": "",
         "User_Input_Tag": "QYctXwOC96A=",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true",
+        "pasteBoard": "true"
       },
       {
         "Dlg_Information": "Set negative button text",
@@ -471,7 +520,8 @@
         "User_Input": "",
         "User_Input_Tag": "d/VdbKiwlbONt/IL3gqcMA==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       },
       {
         "Dlg_Information": "Set show time",
@@ -481,7 +531,8 @@
         "InputDigitOnly": "true",
         "User_Input_Tag": "ePSpXJfQMHlitUTi4MsYqQ==",
         "Is_Color_Input": false,
-        "isChoiceMode": false
+        "isChoiceMode": false,
+        "singleLine": "true"
       }
     ]
   }
