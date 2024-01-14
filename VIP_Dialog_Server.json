@@ -74,7 +74,8 @@
         "User_Input_Tag": "gGA+NbPr2zQQSzK53bg7lA==",
         "Is_Color_Input": true,
         "isChoiceMode": false,
-        "singleLine": "true"
+        "singleLine": "true",
+        "EditText_Limit": "9"
       },
       {
         "Dlg_Information": "Set submessage (Ex what's new)",
@@ -132,7 +133,8 @@
         "User_Input_Tag": "ymazUjoKWDs10SnPVialRjkDoWoi4Uh2e071uUyPi3Q=",
         "Is_Color_Input": true,
         "isChoiceMode": false,
-        "singleLine": "true"
+        "singleLine": "true",
+        "EditText_Limit": "9"
       },
       {
         "Dlg_Information": "Set Download button background color",
@@ -140,7 +142,8 @@
         "User_Input_Tag": "ymazUjoKWDs10SnPVialRqpqB3rJj/WlE1IeeUkaUoQ=",
         "Is_Color_Input": true,
         "isChoiceMode": false,
-        "singleLine": "true"
+        "singleLine": "true",
+        "EditText_Limit": "9"
       },
       {
         "Dlg_Information": "Cancel button visibility ?",
@@ -170,7 +173,8 @@
         "User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5QSFPVslSgBYHPgDqRN5J2U=",
         "Is_Color_Input": true,
         "isChoiceMode": false,
-        "singleLine": "true"
+        "singleLine": "true",
+        "EditText_Limit": "9"
       },
       {
         "Dlg_Information": "Set cancel button background color",
@@ -178,7 +182,8 @@
         "User_Input_Tag": "MiWI3MxXkXj3L26fksPO7W6nPOY/7ultHPgDqRN5J2U=",
         "Is_Color_Input": true,
         "isChoiceMode": false,
-        "singleLine": "true"
+        "singleLine": "true",
+        "EditText_Limit": "9"
       }
     ]
   },
@@ -225,7 +230,8 @@
         "User_Input_Tag": "FGj3rlA6YL2zNhCPXtcvUw==",
         "Is_Color_Input": true,
         "isChoiceMode": false,
-        "singleLine": "true"
+        "singleLine": "true",
+        "EditText_Limit": "9"
       },
       {
         "Dlg_Information": "Set dialog subtitle",
@@ -258,7 +264,8 @@
         "User_Input_Tag": "gGA+NbPr2zQQSzK53bg7lA==",
         "Is_Color_Input": true,
         "isChoiceMode": false,
-        "singleLine": "true"
+        "singleLine": "true",
+        "EditText_Limit": "9"
       },
       {
         "Dlg_Information": "Set submessage (Ex what's new)",
@@ -316,7 +323,8 @@
         "User_Input_Tag": "ymazUjoKWDs10SnPVialRjkDoWoi4Uh2e071uUyPi3Q=",
         "Is_Color_Input": true,
         "isChoiceMode": false,
-        "singleLine": "true"
+        "singleLine": "true",
+        "EditText_Limit": "9"
       },
       {
         "Dlg_Information": "Set Download button background color",
@@ -324,7 +332,8 @@
         "User_Input_Tag": "ymazUjoKWDs10SnPVialRqpqB3rJj/WlE1IeeUkaUoQ=",
         "Is_Color_Input": true,
         "isChoiceMode": false,
-        "singleLine": "true"
+        "singleLine": "true",
+        "EditText_Limit": "9"
       },
       {
         "Dlg_Information": "Cancel button visibility ?",
@@ -354,7 +363,8 @@
         "User_Input_Tag": "MiWI3MxXkXjtQiyaaIXC5QSFPVslSgBYHPgDqRN5J2U=",
         "Is_Color_Input": true,
         "isChoiceMode": false,
-        "singleLine": "true"
+        "singleLine": "true",
+        "EditText_Limit": "9"
       },
       {
         "Dlg_Information": "Set cancel button background color",
@@ -362,7 +372,8 @@
         "User_Input_Tag": "MiWI3MxXkXj3L26fksPO7W6nPOY/7ultHPgDqRN5J2U=",
         "Is_Color_Input": true,
         "isChoiceMode": false,
-        "singleLine": "true"
+        "singleLine": "true",
+        "EditText_Limit": "9"
       }
     ]
   },
