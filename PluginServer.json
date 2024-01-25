@@ -1,4 +1,14 @@
 [
+,
+	{
+		"plugin_name": "English Dictionary",
+		"version": "1.0",
+		"plugin_short_info": "Using the English dictionary web interface.",
+		"plugin_long_info": "Using the English dictionary web interface.",
+		"plugin_id": "mt.english.dictionary",
+		"download_link": "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/Plugin/EnglishDictionary.mtp",
+		"icon_link": "https://bit.ly/3jCWhuJ"
+	},
 	{
 		"plugin_name": "MT Number Converter",
 		"version": "1.0",
@@ -16,14 +26,5 @@
 		"plugin_id": "mt.googleTranslate",
 		"download_link": "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/Plugin/googleTranslate.mtp",
 		"icon_link": "https://i.ibb.co/ZWy242R/image.jpg"
-	},
-	{
-		"plugin_name": "English Dictionary",
-		"version": "1.0",
-		"plugin_short_info": "Using the English dictionary web interface.",
-		"plugin_long_info": "Using the English dictionary web interface.",
-		"plugin_id": "mt.english.dictionary",
-		"download_link": "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/Plugin/EnglishDictionary.mtp",
-		"icon_link": "https://bit.ly/3jCWhuJ"
 	}
 ]
