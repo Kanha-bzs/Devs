@@ -1,7 +1,7 @@
 [
   {
     "plugin_name": "English Dictionary",
-    "version": "2.0",
+    "version": "1.0",
     "plugin_short_info": "Using the English dictionary web interface.",
     "plugin_long_info": "Using the English dictionary web interface.",
     "plugin_id": "mt.english.dictionary",
@@ -10,7 +10,7 @@
   },
   {
     "plugin_name": "MT Number Converter",
-    "version": "2.0",
+    "version": "1.0",
     "plugin_short_info": "MT Number Converter is basically a Modder Hub plugin that can help you to convert a specific Number to Binary, decimal, octal , Hex and vice-versa",
     "plugin_long_info": "MT Number Converter is basically a Modder Hub plugin that can help you to convert a specific Number to Binary, decimal, octal , Hex and vice-versa",
     "plugin_id": "mt.number_converter",
