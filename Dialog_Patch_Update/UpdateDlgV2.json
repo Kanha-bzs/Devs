@@ -1,5 +1,5 @@
 {
-  "About_Update" : "New Update 26-Feb-2024 \n\n 1) Fixed minor bugs \2) Fixed partial Virus detection error \n\nIntial Release\n\n 1)Now supporting for Smali Patching method.. \n 2) Fixed Bug \n\nIf your app don't have permission of internet then you should use main application method or you can add internet access permission in app manifest manually 👍",
-  "Preference" : "MT4",
-  "Download_Link" : "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/UpdateV2Patch.zip"
+	"About_Update": "New Update 26-Feb-2024 \n\n 1) Fixed minor bugs \n2) Fixed partial Virus detection error \n\nIntial Release\n\n 1)Now supporting for Smali Patching method.. \n 2) Fixed Bug \n\nIf your app don't have permission of internet then you should use main application method or you can add internet access permission in app manifest manually 👍",
+	"Preference": "MT4",
+	"Download_Link": "https://github.com/Kanha-bzs/ProtectionSmali/releases/download/MT/UpdateV2Patch.zip"
 }
