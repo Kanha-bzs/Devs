@@ -209,8 +209,8 @@
 		"ଜେସନ୍_କି": "Default",
 		"asset_json_file_name": null,
 		"instructions_after_patch": "Please read all instructions that given in ReadME.smali file\n\nIf you want to patch apk directly then simply click Apk Patch",
-		"isDirectJsonCreationAvailable": false,
-		"isDirectPatchingAvailable": false,
+		"isDirectJsonCreationAvailable": true,
+		"isDirectPatchingAvailable": true,
 		"dlg_preview_data": [
 			{
 				"Title": "Image Preview",
@@ -580,8 +580,8 @@
 		"ଜେସନ୍_କି": "Default",
 		"asset_json_file_name": null,
 		"instructions_after_patch": "Please read all instructions that given in ReadME.smali file\n\nIf you want to patch apk directly then simply click Apk Patch. But please remember add the Activity code in AndroidManifest ",
-		"isDirectJsonCreationAvailable": true,
-		"isDirectPatchingAvailable": true,
+		"isDirectJsonCreationAvailable": false,
+		"isDirectPatchingAvailable": false,
 		"dlg_preview_data": [
 			{
 				"Title": "Image Preview",
