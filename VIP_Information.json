@@ -1,8 +1,14 @@
-{ 
- "Header_Rate" : "$5.50 or €5 or ₹230.00",
- "Price_In_USD" : "5.50",
- "PayPal_Link" : "https://paypal.me/daynidhimaharna/",
- "Price_In_Rupee" : "230",
- "UPI_ID" : "dayanidhi-m@ybl",
- "Telegram_Link" : "https://t.me/tribute?start=s8d3a"
+{
+  "Header_Rate": "$5.50 or €5 or ₹230.00",
+  "Header_Rate_Re": "$1.50 or €2 or ₹70.00",
+  "Price_In_USD": "5.50",
+  "Price_In_USD_Re": "1.50",
+  "PayPal_Link": "https://paypal.me/daynidhimaharna/",
+  "Price_In_Rupee": "230",
+  "Price_In_Rupee_Re": "70",
+  "UPI_ID": "dayanidhi-m@ybl",
+  "Telegram_Link": "https://t.me/tribute?start=s8d3a",
+  "Telegram_Link_Re": "https://t.me/tribute?start=s8d3a",
+  "VIP_Instruction": "<html>\n<head>\n<style>\nbody {\n    font-size: 16px;\n    color: black;\n}\nh2 {\n    font-size: 28px;\n    text-align: left;\n}\nh3 {\n    font-size: 24px;\n    text-align: left;\n}\np, div, span {\n    font-size: 18px;\n}\nspan.red {\n    color: red;\n}\nspan.pink {\n    color: #ff00fe;\n}\nu {\n    text-decoration: underline;\n}\nblockquote {\n    margin-left: 20px;\n}\n</style>\n</head>\n<body>\n\n<h2><b><span class=\"red\"><u>What to do for permanent VIP</u></span></b></h2>\n\n<div><b>1) Copy your logined <span class=\"pink\">email</span> account</b></div>\n\n<div><b>2) Then copy your <span class=\"pink\">Secure Id</span> from profile</b></div>\n\n<div><b><span class=\"red\"><u>NOTE :</u></span></b></div>\n\n<blockquote>\n<div><span><span class=\"pink\"><b>Secure Id</b></span> is also known as <b>Android Id</b> of your phone and it is only Unique to your phone. Please note <b>Modder Hub</b> can be login upto 2 devices simultaneously. It is only possible if you share two different <span class=\"pink\"><b>Secure id</b></span> from your App profile to us during verification.</span></div>\n</blockquote>\n\n<blockquote>\n<div><span>And also you have to remember that the factory reset can modify your <b>Android Id</b> meaning <span class=\"pink\"><b>Secure ID</b></span>, and result in losing your account. But don't worry, we are providing <b>2</b> free reverification of <span class=\"pink\"><b>Secure Id</b></span> if you followed what <b>Modder Hub</b> says during login.</span></div>\n</blockquote>\n\n<blockquote>\n<div><span>After completing <b>2 free</b> modifications of your <span class=\"pink\"><b>Secure Id</b></span>, you have to pay about <b>1.5$ or ₹70 or 2€</b> for another 2 free reverifications of your account.</span></div>\n</blockquote>\n\n<div><span>So it's my humble request: do not factory reset your phone unnecessarily, else remember the above statements.</span></div>\n\n<div><b>3) Your permanent <span class=\"pink\">User Name</span></b></div>\n\n<blockquote>\n<div><span>This <span class=\"pink\"><b><u>user name</u></b></span> can be your official <b>YouTube</b> or <b>Telegram Channel</b> handle name, or your official <b>Website</b> name. If you don't have any official account, you must send your official name with valid proof. <span class=\"red\">Remember, only valid names should be sent for verification. If anything is wrong with the name, we will notify or may not even reply to your email request.</span></span></div>\n</blockquote>\n\n<h3><b><u>After successfully paying via any method below, you should click the Already Purchased Button for more precise instructions about what to write in email message.</u></b></h3>\n\n<p><b><span class=\"red\">VIP contents of Modder Hub are considered as virtual goods and purchases do not support refund option.</span></b></p>\n\n</body>\n</html>",
+  "VIP_Instruction_Re": "Soon"
 }
